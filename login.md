@@ -26,4 +26,4 @@ It is possible to log out at any time after you have authenticated. Every screen
 
 It is from this dialog that you can log out. You will also be able to verify the database and launch help documentation.
 
-[ <- Previous ](Home.md) | [ Next -> ](projects.md)
+[ <- Previous ](README.md) | [ Next -> ](projects.md)
