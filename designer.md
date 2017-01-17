@@ -27,7 +27,7 @@ Here are the capabilities of the header:
 * **Save button** - this will allow you to save your current work.
 * **Preview button** - this will allow you to launch a new browser tab and preview your work. Remember to save so that your changes will be reflected!
 * **Export button** - this will allow you to export the screen as a view (.html) and view-model (.js) file for you to play with outside the tool.
-* **User button** - this will allow you to logout and see the database you are currently connected to.
+* **User button** - this will allow you to logout and see the database you are currently connected to. It also provides a link to help documentation.
 
 ![Designer User Settings dialog](images/designer-user-settings.png)
 
@@ -54,19 +54,35 @@ The following animation shows how you can use the toolbox as well as filter its 
 
 ![Designer toolbox](images/designer-toolbox-filtering.gif)
 
+As you saw in the animation, the search input uses partial name matching as well as tags. The following is a list of existing tags that controls are grouped by:
+
+* flow
+* form
+* image
+* inline
+* input
+* list
+* media
+* phrase
+* sectioning
+* table
+* text
+ 
 To add an element on to the designer surface, simply click and drag the element from the toolbox onto the designer surface.
 
 ![Designer toolbox](images/designer-drag-drop.gif)
 
 ### Components
 
-The components provides a list of all of the screens that you have authored for this project. This list is exactly the same as the list on the Project Screens screen. It is available here to allow you to compose hybrid screens by adding them to the designer surface. This promotes component reuse and allows you to mitigate redundancies as much as possible.
+The components provides a list of all of the screens that you have authored for this project. This list is exactly the same as the list on the Project Screens screen. It is available here to allow you to compose hybrid screens by adding them to the designer surface. This promotes component reuse and allows you to mitigate redundancies as much as possible. Also, notice that the icon selected when creating the screen will show up here as well.
 
 The following is a screen shot of the components tab:
 
 ![Designer components](images/designer-components.png)
 
-To add a component on to the designer surface, simply click on the plus (+) button.
+To add a component on to the designer surface, simply click and drag the element from the components tab onto the designer surface.
+
+![Designer toolbox](images/designer-components-drag-drop.gif)
 
 ## Right Dock Pane
 
@@ -99,7 +115,7 @@ The screen name is an important property. **FrontEnd Creator** will use it as th
 
 The preview tab allows you to preview your changes live as you work on the designer surface or the HTML tab.
 
-The following is a screen shot of the designer surface after adding a form, form-group, label, and input control:
+The following is a screen shot of the designer surface after adding a form, form-group, label, input element, and button:
 
 ![Designer surface](images/designer-surface.png)
 
@@ -182,4 +198,4 @@ The following is a screen shot of the schema tab:
 
 There will be a whole section dedicated to schema and how to use it in a data-form.
 
-[ <- Previous ](screens.md) | [ Home ](Home.md) | [ Next -> ](preview.md)
+[ <- Previous ](screens) | [ Home ](home) | [ Next -> ](preview)

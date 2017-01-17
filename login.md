@@ -3,7 +3,7 @@
 The following are the steps to login and start using the application.
 
 ## User Account
-In order to use the application, you will need an account. Every user will have a profile associated with it that will determine your permissions within the application. The same security infrascture that is in place in the application is available for the applications that you create.
+In order to use the application, you will need an account. Every user will have a profile associated with it that will determine your permissions within the application. The same security infrastructure that is in place in the application is available for the applications that you create.
 
 ## Logging In
 You will need a username and password. Please contact <support@frontendcreator.com> to request a username and password. 
@@ -26,4 +26,4 @@ It is possible to log out at any time after you have authenticated. Every screen
 
 It is from this dialog that you can log out. You will also be able to verify the database and launch help documentation.
 
-[ <- Previous ](README.md) | [ Next -> ](projects.md)
+[ <- Previous ](home) | [ Next -> ](projects)

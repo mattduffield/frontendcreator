@@ -22,7 +22,7 @@ Currently, the **FrontEnd Creator** is in a *closed alpha*. If you are intereste
 
 Space is limited but you will have full access to the application.
 
-For more information and documentation on using the application, please go here: [ Documentation ](https://bitbucket.org/matt.duffield/frontendcreator/wiki/Home)
+For more information and documentation on using the application, please go here: [ Documentation ](https://github.com/mattduffield/frontendcreator/wiki)
 
 We are striving to make this a first class solution for building web applications.
 

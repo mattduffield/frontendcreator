@@ -10,8 +10,8 @@ The following is a screen shot of the add/edit dialog that is displayed when you
 
 ![Add/Edit Project screen](images/project-add-edit.png)
 
-Every project has a project name, description, and front end target. Currently Aurelia is the only supported target we will be adding more targets in the future. Bootstrap is currently the only officially supported CSS framework but this will also change in the future as well.
+Every project has a project name, description, and front end target. Currently Aurelia is the only supported target we will be adding more targets in the future. Next, you will select a CSS library, Bootstrap is currently the only officially supported CSS framework but this will also change in the future as well.
 
 Once you click save on a project, you will automatically launch into the Project Screens view.
 
-[ <- Previous ](login.md) | [ Home ](Home.md) | [ Next -> ](screens.md)
+[ <- Previous ](login) | [ Home ](home) | [ Next -> ](screens)

@@ -4,4 +4,4 @@ One thing that makes the FrontEnd Creator powerful is the ability to compose scr
 
 This provides for great reuse and flexibility. You will be able to create menu or navigation components that can be reused across all of your screens.
 
-[ <- Previous ](data-form.md) | [ Home ](Home.md) | [ Next -> ](notification.md)
+[ <- Previous ](data-form) | [ Home ](home) | [ Next -> ](notification)

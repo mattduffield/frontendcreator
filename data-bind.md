@@ -79,4 +79,4 @@ The following is a screen shot of the events section:
 
 ![Designer Property Grid Events](images/designer-property-grid-events.png)
 
-[ <- Previous ](classes-attributes-styles.md) | [ Home ](Home.md) | [ Next -> ](data-form.md)
+[ <- Previous ](classes-attributes-styles) | [ Home ](home) | [ Next -> ](data-form)

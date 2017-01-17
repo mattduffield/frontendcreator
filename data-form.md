@@ -10,7 +10,7 @@ Here is a screen shot of the Schema tab:
 
 ![DataFrom Schema](images/designer-schema.png)
 
-You can learn more about using the Validator [ here ](validator/validator.md).
+You can learn more about using the Validator [ here ](validator/validator).
 
 Here is a screen shot of the Data tab:
 
@@ -29,6 +29,6 @@ The data-form has the following attributes:
 * **validate-on-blur** - You can set this to `true` so that validation will occur on blur.
 * **schema** - You bind this attribute to your underlying schema object.
 
-**Remember** You can learn more about using the [ Validator here ](validator/validator.md).
+**Remember** You can learn more about using the [ Validator here ](validator/validator).
 
-[ <- Previous ](data-bind.md) | [ Home ](Home.md) | [ Validator ](validator/validator.md) | [ Next -> ](composition.md)
+[ <- Previous ](data-bind) | [ Home ](home) | [ Validator ](validator/validator) | [ Next -> ](composition)

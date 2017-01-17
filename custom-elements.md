@@ -7,4 +7,4 @@ It is important to note that any screen that you create can be used in subsequen
 We will walk you through the steps to make use of this powerful feature.
 
 
-[ <- Previous ](notification.md) | [ Home ](Home.md)
+[ <- Previous ](notification) | [ Home ](home)

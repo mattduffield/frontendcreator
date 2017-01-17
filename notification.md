@@ -39,4 +39,4 @@ The following animation demonstrates clicking on each button and see the notific
 ![Notification Animation](images/notification.gif)
 
 
-[ <- Previous ](composition.md) | [ Home ](Home.md) | [ Next -> ](custom-elements.md)
+[ <- Previous ](composition) | [ Home ](home) | [ Next -> ](custom-elements)
