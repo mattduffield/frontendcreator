@@ -2,7 +2,5 @@
 
 This project is for documentation purposes only.
 
-Please refer to the Wiki for all documentation on **FrontEnd Creator**
-
-https://github.com/mattduffield/frontendcreator/wiki
+Please refer to [ FrontEnd Creator Documentation ](https://mattduffield.gitbooks.io/frontend-creator/) for a better reading experience.
 
