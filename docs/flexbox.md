@@ -71,7 +71,7 @@ It is possible to achieve grid layouts like Twitter Bootstrap or Foundation Zurb
 
 Consider the following layout. It is possible to create this and with very little amount of HTML and CSS.
 
-![Tutorial Flexbox Preview](../wiki/images/tutorials/tutorial-flexbox-preview.png)
+![Tutorial Flexbox Preview](images/tutorials/tutorial-flexbox-preview.png)
 
 If you are interested in building the previous layout using Flexbox, you can go to the tutorial [ Flexbox Tutorial ](flexbox-screen).
 

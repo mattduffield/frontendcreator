@@ -6,7 +6,7 @@ This provides for great reuse and flexibility. You will be able to create menu o
 
 The following is a screenshot of composing Flexbox container with a Panel:
 
-![Tutorial Container Preview](../wiki/images/tutorials/tutorial-container-panel-preview.gif)
+![Tutorial Container Preview](images/tutorials/tutorial-container-panel-preview.gif)
 
 Refer to the [ Container Part 1 ](tutorials/container-part-1), [ Container Part 3 ](tutorials/container-part-2), and [ Container Part 3 ](tutorials/container-part-3) tutorials on how to create the above example.
 
