@@ -36,6 +36,7 @@
 * [Container Part 1](tutorials/container-part-2.md)
 * [Container Part 1](tutorials/container-part-3.md)
 * [REST API Screen](tutorials/randomuser-screen.md)
+* [Phone Card Template](tutorials/phone-card-template.md)
 
 ### Sample Applications
 
