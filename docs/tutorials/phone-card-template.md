@@ -3,15 +3,16 @@ Being able to build reusable components is invaluable for developers and designe
 
 ![Phone Card Template](../images/entity-builder-quick-start.png)
 
-This tutorial will walk you through the steps required to create the example from above:
+This tutorial will walk you through the steps required to create the example from above using the Template Builder:
 
 
-1. Create a new tempalte by click on the New button.
-2. Provide the name of the template: 'phone-card'
-3. Select 'Layout (Multiple Records)' for the Template Type
-4. Enter the number 10 for the Order
-5. Enter the number 1 for the Number of Records
-6. Add the following HTML for the Template:
+1. Navigate to the Template Builder
+2. Create a new template by clicking on the New button
+3. Name the template: 'phone-card'
+4. Select 'Layout (Multiple Records)' for the Template Type
+5. Enter the number 10 for the Order
+6. Enter the number 1 for the Number of Records
+7. Add the following HTML for the Template:
   ```html
   <div>
     <style>
@@ -80,7 +81,7 @@ This tutorial will walk you through the steps required to create the example fro
     </section>
   </div>
   ```
-7. Switch over to the Sample Entity tab and enter in the following:
+8. Switch over to the Sample Entity tab and enter in the following:
   ```json
   {
     "name": "phone-card",
@@ -97,9 +98,9 @@ This tutorial will walk you through the steps required to create the example fro
     ]
   }
   ```
-8. Next, click on the Refresh button to render the template
-9. You can change the Number of Records to see more of these templates and the click the Reload button followed by the Render button re-render the template
-10. Trying changing out some of the embedded styles and click the Refresh button to see them applied 
+9. Next, click on the Refresh button to render the template
+10. You can change the Number of Records to see more of these templates and the click the Reload button followed by the Render button re-render the template
+11. Trying changing out some of the embedded styles and click the Refresh button to see them applied 
 
 That should do it! You should now have a template that looks something like the following with the exception of the image as it is random:
 
