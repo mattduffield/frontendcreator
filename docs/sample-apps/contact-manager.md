@@ -1,7 +1,7 @@
 # Contact Manager
 This tutorial is the culmination of all of the other tutorials by building a contact manager sample application. The following is a screenshot of the final product that we are going to build:
 
-![Contact Manager](images/navigation-builder-quick-start.gif)
+![Contact Manager](../images/navigation-builder-quick-start.gif)
 
 ### Styles
 
