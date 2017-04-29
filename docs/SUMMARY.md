@@ -23,7 +23,7 @@
 * [Navigation Builder](navigation-builder.md)
 * [Application Export](application-export.md)
 * [Template Builder](template-builder.md)
-* [Translation Builder](multilingual.md)
+* [Translation Builder](translation-builder.md)
 * [Market Place](market-place.md)
 
 ### Tutorials
