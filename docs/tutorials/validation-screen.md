@@ -6,19 +6,19 @@ The following are the steps required to use **FrontEnd Creator** to create a sim
 
 Let's get started.
 
-1. Start by creating a project called, `Tutorial Project`. Add any description and left the rest of the properties with their default values. Your screen should look like the following:
+1) Start by creating a project called, `Tutorial Project`. Add any description and left the rest of the properties with their default values. Your screen should look like the following:
 
-  ![Tutorial Project](../images/tutorials/tutorial-project.png)
+![Tutorial Project](../images/tutorials/tutorial-project.png)
 
-2. Once you click save, you will go to the Project Dashboard. We will go straight to the screens.
+2) Once you click save, you will go to the Project Dashboard. We will go straight to the screens.
 
-  ![Tutorial Project Dashboard](../images/tutorials/tutorial-project-dashboard.png)
+![Tutorial Project Dashboard](../images/tutorials/tutorial-project-dashboard.png)
 
-3. Click on the plus button to add a new screen.
+3) Click on the plus button to add a new screen.
 
-  ![Tutorial Screen Properties](../images/tutorials/tutorial-validation-screen-properties.png)
+![Tutorial Screen Properties](../images/tutorials/tutorial-validation-screen-properties.png)
   
-4. Now we are ready to start building our layout. There are a total of eight elements that we will use. We will create each individually using an animation that you can follow along.
+4) Now we are ready to start building our layout. There are a total of eight elements that we will use. We will create each individually using an animation that you can follow along.
 
 ![Tutorial Form Animation](../images/tutorials/tutorial-validation-screen.gif)
 
@@ -58,10 +58,9 @@ Element | Attribute | Mode | Action
 ---- | ---- | ---- | ----
 BUTTON | click | delegate | actions.submit()
 
-{:start="5"}
-5. Save you work.
+5) Save you work.
 
-6. Click the Actions tab and enter the following code:
+6) Click the Actions tab and enter the following code:
 
   ```javascript
   function (that, V) {
@@ -86,9 +85,9 @@ BUTTON | click | delegate | actions.submit()
 
   **Note** We use `that` as a reference to the parent view model.
 
-7. Save your work.
+7) Save your work.
 
-8. Click the Data tab and enter the following JSON:
+8) Click the Data tab and enter the following JSON:
 
   ```json
   {
@@ -99,9 +98,9 @@ BUTTON | click | delegate | actions.submit()
   }
   ```
 
-9. Save your work.
+9) Save your work.
 
-10. Click on the Schema tab and enter the following JSON:
+10) Click on the Schema tab and enter the following JSON:
 
   ```javascript
   {
@@ -110,11 +109,11 @@ BUTTON | click | delegate | actions.submit()
   }
   ```
 
-11. Save your work.
+11) Save your work.
 
-12. Click on the Preview button and you should see something like the following:
+12) Click on the Preview button and you should see something like the following:
 
-  ![Tutorial Flexbox Preview](../images/tutorials/tutorial-validation-preview.gif)
+![Tutorial Flexbox Preview](../images/tutorials/tutorial-validation-preview.gif)
 
 That it! You have created your first validation form! Congratulations!
 
