@@ -2,22 +2,22 @@
 
 The following are the steps required to use **FrontEnd Creator** to create a dock container using Flexbox. This is part 1 in a three-part series. We will create a dock container in this first tutorial. The container will have two collapsible panes. Here is a screen shot of the layout we are going to build:
 
-![Tutorial Project](images/tutorials/tutorial-container.png)
+![Tutorial Project](../images/tutorials/tutorial-container.png)
 
 
 Let's get started.
 
 1. Start by creating a project called, `Tutorial Project`. Add any description and left the rest of the properties with their default values. Your screen should look like the following:
 
-  ![Tutorial Project](images/tutorials/tutorial-project.png)
+  ![Tutorial Project](../images/tutorials/tutorial-project.png)
 
 2. Once you click save, you will go to the Project Dashboard. We will go straight to the screens.
 
-  ![Tutorial Project Dashboard](images/tutorials/tutorial-project-dashboard.png)
+  ![Tutorial Project Dashboard](../images/tutorials/tutorial-project-dashboard.png)
 
 3. Click on the plus button to add a new screen.
 
-  ![Tutorial Container Properties](images/tutorials/tutorial-container-properties.png)
+  ![Tutorial Container Properties](../images/tutorials/tutorial-container-properties.png)
 
 4. Now we are ready to start building our layout. Click on the HTML tab and replace the following snippet in the editor. 
 
@@ -133,7 +133,7 @@ Let's get started.
 
 8. Click on the Preview button and you should see something like the following:
 
-  ![Tutorial Container Preview](images/tutorials/tutorial-container-preview.gif)
+  ![Tutorial Container Preview](../images/tutorials/tutorial-container-preview.gif)
 
 That it! You have completed part 1! Congratulations!
 
