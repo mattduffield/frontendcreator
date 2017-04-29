@@ -25,7 +25,7 @@ Let's get started.
   Here is a recap of each of the elements that were added and settings. In each element we set specific classes and styles. The following is a breakdown for each element:
 
   Element | Host | Class | Content
-  ---- | ---- | ---- | ----
+  ------- | ---- | ----- | -------
   FORM |  | full-height padding-15 | 
   FORM-GROUP | FORM | form-group | 
   LABEL | FORM-GROUP |  | Email
