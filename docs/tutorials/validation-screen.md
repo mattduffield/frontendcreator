@@ -58,6 +58,7 @@ Element | Attribute | Mode | Action
 ---- | ---- | ---- | ----
 BUTTON | click | delegate | actions.submit()
 
+{:start="5"}
 5. Save you work.
 
 6. Click the Actions tab and enter the following code:
