@@ -24,39 +24,39 @@ Let's get started.
 
   Here is a recap of each of the elements that were added and settings. In each element we set specific classes and styles. The following is a breakdown for each element:
 
-  Element | Host | Class | Content
-  --- | --- | --- |---
-  FORM |  | full-height padding-15 | 
-  FORM-GROUP | FORM | form-group | 
-  LABEL | FORM-GROUP |  | Email
-  INPUT | FORM-GROUP | form-control | 
-  FORM-GROUP | FORM | form-group | 
-  LABEL | FORM-GROUP |  | Age
-  INPUT | FORM-GROUP | form-control | 
-  BUTTON | FORM | btn btn-primary | Submit
+  | Element | Host | Class | Content |
+  | --- | --- | --- |--- |
+  | FORM |  | full-height padding-15 | |
+  | FORM-GROUP | FORM | form-group | |
+  | LABEL | FORM-GROUP |  | Email |
+  | INPUT | FORM-GROUP | form-control | |
+  | FORM-GROUP | FORM | form-group | |
+  | LABEL | FORM-GROUP |  | Age |
+  | INPUT | FORM-GROUP | form-control | |
+  | BUTTON | FORM | btn btn-primary | Submit |
 
   ## Attributes
   The following are the bindings on the elements:
 
-  Element | Name | Value
-  --- | --- | --- |---
-  FORM | validator | data-context.bind: currentItem; schema.bind: schema; 
-  FORM | data-context | dataContext
+  | Element | Name | Value |
+  | --- | --- | --- |
+  | FORM | validator | data-context.bind: currentItem; schema.bind: schema; |
+  | FORM | data-context | dataContext |
 
   ## Bindings
   The following are the bindings on the elements:
 
-  Element | Attribute | Mode | Action
-  --- | --- | --- |---
-  INPUT | value | bind | currentItem.email
-  INPUT | value | bind | currentItem.age
+  | Element | Attribute | Mode | Action |
+  | --- | --- | --- |--- |
+  | INPUT | value | bind | currentItem.email |
+  | INPUT | value | bind | currentItem.age |
 
   ## Events
   The following are the events on the elements:
 
-  Element | Attribute | Mode | Action
-  --- | --- | --- |---
-  BUTTON | click | delegate | actions.submit()
+  | Element | Attribute | Mode | Action |
+  | --- | --- | --- |--- |
+  | BUTTON | click | delegate | actions.submit() |
 
 5. Save you work.
 
