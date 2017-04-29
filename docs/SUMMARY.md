@@ -37,6 +37,12 @@
 * [Container Part 1](tutorials/container-part-3.md)
 * [REST API Screen](tutorials/randomuser-screen.md)
 
+### Sample Applications
+
+* [Simple App - Contact Us Form](sample-apps/contact-us.md)
+* [Intermediate App - ToDo List](sample-apps/todo-list.md)
+* [Advanced App - Contact Manager](sample-apps/contact-manager.md)
+
 ### CSS Classes
 
 * [Bootstrap Classes](css/bootstrap-classes.md)
