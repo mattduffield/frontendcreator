@@ -62,26 +62,26 @@ BUTTON | click | delegate | actions.submit()
 
 6) Click the Actions tab and enter the following code:
 
-  ```javascript
-  function (that, V) {
+```javascript
+function (that, V) {
 
-    function submit() {
-      console.log(JSON.stringify(that.currentItem));
-      if (that.validateFormFunc) {
-        let isFormValid = that.validateFormFunc();
-        if (!isFormValid) {
-          that.notifier.growl({type: 'warn', message: `Please correct validation errors!`});
-          return;
-        }
-        that.notifier.growl({type: 'success', message: `Form is valid!`});    
+  function submit() {
+    console.log(JSON.stringify(that.currentItem));
+    if (that.validateFormFunc) {
+      let isFormValid = that.validateFormFunc();
+      if (!isFormValid) {
+        that.notifier.growl({type: 'warn', message: `Please correct validation errors!`});
+        return;
       }
+      that.notifier.growl({type: 'success', message: `Form is valid!`});    
     }
-    
-   return {
-      submit: submit
-    };
   }
-  ```
+  
+ return {
+    submit: submit
+  };
+}
+```
 
   **Note** We use `that` as a reference to the parent view model.
 
@@ -89,25 +89,25 @@ BUTTON | click | delegate | actions.submit()
 
 8) Click the Data tab and enter the following JSON:
 
-  ```json
-  {
-    "currentItem": {
-      "email": "",
-      "age": ""
-    }
+```json
+{
+  "currentItem": {
+    "email": "",
+    "age": ""
   }
-  ```
+}
+```
 
 9) Save your work.
 
 10) Click on the Schema tab and enter the following JSON:
 
-  ```javascript
-  {
-    "email": V.all([V.required(), V.email(null, "Not a valid email.")]),
-    "age": V.all([V.required(), V.isNumeric(null, "Not a valid number.")])
-  }
-  ```
+```javascript
+{
+  "email": V.all([V.required(), V.email(null, "Not a valid email.")]),
+  "age": V.all([V.required(), V.isNumeric(null, "Not a valid number.")])
+}
+```
 
 11) Save your work.
 
