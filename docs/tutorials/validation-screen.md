@@ -116,6 +116,3 @@ function (that, V) {
 ![Tutorial Flexbox Preview](../assets/images/tutorials/tutorial-validation-preview.gif)
 
 That it! You have created your first validation form! Congratulations!
-
-[ Tutorials ](tutorials/tutorials)
-
