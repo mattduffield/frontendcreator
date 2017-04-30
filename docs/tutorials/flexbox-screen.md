@@ -2,25 +2,25 @@
 
 Layout has always been a challenge with CSS forcing you to write an enormous amount of CSS or rely on a third-party library. Flexbox is one of the recent new kids that has made type of work easier with very minimal CSS. In this tutorial, we will be building the following layout, sometimes known as the holy grail in layout.
 
-![Tutorial Flexbox](../images/tutorials/tutorial-flexbox.png)
+![Tutorial Flexbox](../assets/images/tutorials/tutorial-flexbox.png)
 
 Let's get started.
 
 1. Start by creating a project called, `Tutorial Project`. Add any description and left the rest of the properties with their default values. Your screen should look like the following:
 
-  ![Tutorial Project](../images/tutorials/tutorial-project.png)
+  ![Tutorial Project](../assets/images/tutorials/tutorial-project.png)
 
 2. Once you click save, you will go to the Project Dashboard. We will go straight to the screens.
 
-  ![Tutorial Project Dashboard](../images/tutorials/tutorial-project-dashboard.png)
+  ![Tutorial Project Dashboard](../assets/images/tutorials/tutorial-project-dashboard.png)
 
 3. Click on the plus button to add a new screen.
 
-  ![Tutorial Screen Properties](../images/tutorials/tutorial-flexbox-screen-properties.png)
+  ![Tutorial Screen Properties](../assets/images/tutorials/tutorial-flexbox-screen-properties.png)
 
 4. Now we are ready to start building our layout. There are a total of seven elements that we will use. We will create each individually using an animation that you can follow along.
 
-  ![Tutorial Flexbox Animation](../images/tutorials/tutorial-flexbox-screen.gif)
+  ![Tutorial Flexbox Animation](../assets/images/tutorials/tutorial-flexbox-screen.gif)
 
 Here is a recap of each of the elements that were added and settings. In each element we set specific classes and styles. The following is a breakdown for each element:
 
@@ -38,7 +38,7 @@ FOOTER | DIV | flex-row-none justify-content-end | background-color: lightgreen;
 
 6. Click on the Preview button and you should see your layout like the following:
 
-![Tutorial Flexbox Preview](../images/tutorials/tutorial-flexbox-preview.png)
+![Tutorial Flexbox Preview](../assets/images/tutorials/tutorial-flexbox-preview.png)
 
 That it! You have created your first Flexbox layout! Congratulations!
 

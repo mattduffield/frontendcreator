@@ -1,3 +1,7 @@
 {
-  "root": "./docs"
+  "root": "./docs",
+  "plugins": [ "collapsible-chapters" ],
+  "pluginsConfig": {
+    "collapsible-chapters": {}
+  }
 }

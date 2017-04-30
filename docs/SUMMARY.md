@@ -1,32 +1,91 @@
-# Table of contents
+# Summary
 
-* [Release Notes](release-notes.md)
-* [Login](login.md)
-* [User Avatar](user-avatar.md)
-* [Projects](projects.md)
-* [Project Dashboard](project-dashboard.md)
-* [Screens](screens.md)
-* [Designer](designer.md)
-* [Preview](preview.md)
-* [Classes, Attribues, and Styles](classes-attributes-styles.md)
-* [Data Binding](data-bind.md)
-* [Scripts](scripts.md)
-* [Styles](styles.md)
-* [DataForm](data-form.md)
-* [Validator](validator.md)
-* [Composition](composition.md)
-* [Notification](notification.md)
-* [Dialogs](dialogs.md)
-* [Custom Elements](custom-elements.md)
-* [Flexbox](flexbox.md)
-* [Entity Builder](entity-builder.md)
-* [Navigation Builder](navigation-builder.md)
-* [Application Export](application-export.md)
-* [Template Builder](template-builder.md)
-* [Translation Builder](translation-builder.md)
-* [Market Place](market-place.md)
+## Basics
 
-### Tutorials
+* [Introduction](README.md)
+* [Login](basics/login.md)
+* [User Avatar](basics/user-avatar.md)
+* [Navigation Menu](basics/navigation-menu/readme.md)
+  * [Key Concepts](basics/navigation-menu/key-concepts.md)
+* [Styles](basics/styles/readme.md)
+  * [Key Concepts](basics/styles/key-concepts.md)
+* [Scripts](basics/scripts/readme.md)
+  * [Key Concepts](basics/scripts/key-concepts.md)
+* [Projects](basics/projects/readme.md)
+  * [Key Concepts](basics/projects/key-concepts.md)
+* [Screens](basics/screens/readme.md)
+  * [Key Concepts](basics/screens/key-concepts.md)
+* [Custom Elements](basics/custom-elements/readme.md)
+  * [Key Concepts](basics/custom-elements/key-concepts.md)
+* [Dialogs](basics/dialogs/readme.md)
+  * [Key Concepts](basics/dialogs/key-concepts.md)
+* [Notifications](basics/notifications/readme.md)
+  * [Key Concepts](basics/notifications/key-concepts.md)
+* [Flexbox](basics/flexbox/readme.md)
+  * [Key Concepts](basics/flexbox/key-concepts.md)
+* [Preview](basics/preview/readme.md)
+  * [Key Concepts](basics/preview/key-concepts.md)
+
+## Designer Surface
+
+* [Left Dock](designer-surface/left-dock/readme.md)
+  * [Toolbox](designer-surface/left-dock/toolbox/readme.md)
+    * [Key Concepts](designer-surface/left-dock/toolbox/key-concepts.md)
+  * [Bootstrap](designer-surface/left-dock/bootstrap/readme.md)
+    * [Key Concepts](designer-surface/left-dock/bootstrap/key-concepts.md)
+  * [Components](designer-surface/left-dock/components/readme.md)
+    * [Key Concepts](designer-surface/left-dock/components/key-concepts.md)
+  * [Entities](designer-surface/left-dock/entities/readme.md)
+    * [Key Concepts](designer-surface/left-dock/entities/key-concepts.md)
+  * [DOM Tree](designer-surface/left-dock/dom-tree/readme.md)
+    * [Key Concepts](designer-surface/left-dock/dom-tree/key-concepts.md)
+* [Central Area](designer-surface/central-area/readme.md)
+  * [Designer](designer-surface/central-area/designer/readme.md)
+    * [Key Concepts](designer-surface/central-area/designer/key-concepts.md)
+  * [JSON](designer-surface/central-area/json/readme.md)
+    * [Key Concepts](designer-surface/central-area/json/key-concepts.md)
+  * [HTML](designer-surface/central-area/html/readme.md)
+    * [Key Concepts](designer-surface/central-area/html/key-concepts.md)
+  * [Actions](designer-surface/central-area/actions/readme.md)
+    * [Key Concepts](designer-surface/central-area/actions/key-concepts.md)
+  * [Data](designer-surface/central-area/data/readme.md)
+    * [Key Concepts](designer-surface/central-area/data/key-concepts.md)
+  * [Schema](designer-surface/central-area/schema/readme.md)
+    * [Key Concepts](designer-surface/central-area/schema/key-concepts.md)
+* [Right Dock](designer-surface/right-dock/readme.md)
+  * [Properties](designer-surface/right-dock/properties/readme.md)
+    * [Key Concepts](designer-surface/right-dock/properties/key-concepts.md)
+    * [Classes, Attributes & Styles](designer-surface/right-dock/properties/classes-attributes-styles.md)
+    * [Binding](designer-surface/right-dock/properties/binding.md)
+    * [Events](designer-surface/right-dock/properties/events.md)
+  * [Settings](designer-surface/right-dock/settings/readme.md)
+    * [Key Concepts](designer-surface/right-dock/settings/key-concepts.md)
+  * [Preview](designer-surface/right-dock/preview/readme.md)
+    * [Key Concepts](designer-surface/right-dock/preview/key-concepts.md)
+
+## Advanced
+
+* [Data Form](advanced/data-form/readme.md)
+  * [Key Concepts](advanced/data-form/key-concepts.md)
+* [Validation](advanced/validation/readme.md)
+  * [Key Concepts](advanced/validation/key-concepts.md)
+  * [Advanced Concepts](advanced/validation/advanced-concepts.md)
+* [Composition](advanced/composition/readme.md)
+  * [Key Concepts](advanced/composition/key-concepts.md)
+* [Translation Builder](advanced/translation-builder/readme.md)
+  * [Key Concepts](advanced/translation-builder/key-concepts.md)
+* [Entity Builder](advanced/entity-builder/readme.md)
+  * [Key Concepts](advanced/entity-builder/key-concepts.md)
+* [Template Builder](advanced/template-builder/readme.md)
+  * [Key Concepts](advanced/template-builder/key-concepts.md)
+* [Navigation Builder](advanced/navigation-builder/readme.md)
+  * [Key Concepts](advanced/navigation-builder/key-concepts.md)
+* [Application Export](advanced/application-export/readme.md)
+  * [Key Concepts](advanced/application-export/key-concepts.md)
+* [Market Place](advanced/market-place/readme.md)
+  * [Key Concepts](advanced/market-place/key-concepts.md)
+
+## Tutorials
 
 * [Form Screen](tutorials/form-screen.md)
 * [Validation Screen](tutorials/validation-screen.md)
@@ -38,14 +97,22 @@
 * [REST API Screen](tutorials/randomuser-screen.md)
 * [Phone Card Template](tutorials/phone-card-template.md)
 
-### Sample Applications
+## Sample Applications
 
 * [Simple App - Contact Us Form](sample-apps/contact-us.md)
 * [Intermediate App - ToDo List](sample-apps/todo-list.md)
 * [Advanced App - Contact Manager](sample-apps/contact-manager.md)
 
-### CSS Classes
+## Reference
 
-* [Bootstrap Classes](css/bootstrap-classes.md)
-* [Flexbox Classes](css/flexbox-classes.md)
-* [Layout Classes](css/layout-classes.md)
+* [CSS](reference/css/readme.md)
+  * [Bootstrap Classes](reference/css/bootstrap-classes.md)
+  * [Flexbox Classes](reference/css/flexbox-classes.md)
+  * [Layout Classes](reference/css/layout-classes.md)
+* [Validation](reference/validation/readme.md)
+  * [API](reference/validation/api.md)
+
+## Release Notes
+
+* [Release Notes](release-notes.md)
+
