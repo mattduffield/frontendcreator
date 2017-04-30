@@ -1,7 +1,7 @@
 # Contact Manager
 This tutorial is the culmination of all of the other tutorials by building a contact manager sample application. The following is a screenshot of the final product that we are going to build:
 
-![Contact Manager](../images/navigation-builder-quick-start.gif)
+![Contact Manager](../assets/images/navigation-builder-quick-start.gif)
 
 ### Styles
 
@@ -159,7 +159,7 @@ From the navigation screenshot above, we are going to need to create five (5) sc
   ```
   Here is how the designer should appear:
 
-  ![Contact Manager Menu](../images/navigation-builder-menu.png)
+  ![Contact Manager Menu](../assets/images/navigation-builder-menu.png)
 
   As you can see, you really cannot see much from the designer perspective as the menu is really data-driven.
 
@@ -186,7 +186,7 @@ From the navigation screenshot above, we are going to need to create five (5) sc
   ```
   As you can see from above, we have a simple shell that has two columns. It also contains a reference to our `cm-menu` screen as a custom element. Finally, we also are referencing the `router-view` Aurelia custom element. Here is how the designer should appear:
 
-  ![Contact Manager - Shell](../images/navigation-builder-shell.png)
+  ![Contact Manager - Shell](../assets/images/navigation-builder-shell.png)
 
 5. In the actions tab, add the following JavaScript:
   ```javascript
@@ -256,7 +256,7 @@ From the navigation screenshot above, we are going to need to create five (5) sc
   ```
   Here is how the designer should appear:
 
-  ![Contact Manager - Home](../images/navigation-builder-home.png)
+  ![Contact Manager - Home](../assets/images/navigation-builder-home.png)
 
 3. Save your screen
 
@@ -265,11 +265,11 @@ From the navigation screenshot above, we are going to need to create five (5) sc
 1. Create another screen and call it, `cm-contacts`
 2. In the designer use the Entities tab and select the Contact entity. Check the fields as shown below as well as pick `Table Edit` from the dropdown and drag onto the designer
 
-  ![Contact Manager - Entity](../images/navigation-builder-contacts-entity.png)
+  ![Contact Manager - Entity](../assets/images/navigation-builder-contacts-entity.png)
 
   Here is how the designer should appear:
 
-  ![Contact Manager - Contacts](../images/navigation-builder-contacts.png)
+  ![Contact Manager - Contacts](../assets/images/navigation-builder-contacts.png)
 
 3. You will want to modify the HTML slightly by wrapping existing markup with the following section element:
   ```html
@@ -298,7 +298,7 @@ From the navigation screenshot above, we are going to need to create five (5) sc
 
   Here is how the designer should appear:
 
-  ![Contact Manager - Contact](../images/navigation-builder-contact.png)
+  ![Contact Manager - Contact](../assets/images/navigation-builder-contact.png)
 
 3. You will want to modify the HTML slightly by wrapping existing markup with the following section element:
   ```html
