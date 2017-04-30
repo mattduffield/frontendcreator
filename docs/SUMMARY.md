@@ -1,8 +1,9 @@
 # Summary
 
+* [Introduction](README.md)
+* 
 ## Basics
 
-* [Introduction](README.md)
 * [Login](basics/login.md)
 * [User Avatar](basics/user-avatar.md)
 * [Navigation Menu](basics/navigation-menu/readme.md)
