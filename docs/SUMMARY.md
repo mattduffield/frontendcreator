@@ -114,5 +114,6 @@
 
 ## Release Notes
 
-* [Release Notes](release-notes.md)
-
+* [Release Notes](release-notes/readme.md)
+  * [0.9.1x](release-notes/0.9.1x/readme.md)
+  * [0.9.0x](release-notes/0.9.0x/readme.md)
