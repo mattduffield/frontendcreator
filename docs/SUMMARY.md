@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* 
+
 ## Basics
 
 * [Login](basics/login.md)
