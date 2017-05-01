@@ -31,8 +31,6 @@ Let's get started.
 
 7) We are now ready to start building our layout. There are a total of five elements that we will use. We will create each individually using an animation that you can follow along.
 
-![Tutorial Form Animation](../assets/images/tutorials/tutorial-form-screen.gif)
-
 {% youtube %}
   https://www.youtube.com/watch?v=z-4SzNHKqRE
 {% endyoutube %}
