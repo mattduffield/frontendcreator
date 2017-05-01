@@ -7,21 +7,33 @@ The following are the steps required to use **FrontEnd Creator** to create a sim
 
 Let's get started.
 
-1) Start by creating a project called, `Tutorial Project`. Add any description and left the rest of the properties with their default values. Your screen should look like the following:
+1) Start by clicking on *Manage Projects* from navigation menu on the left pane.
+
+![Tutorial Project](../assets/images/tutorials/tutorial-manage-projects.png)
+
+2) Next, click on the New button and name the project, `Tutorial Project`. Add any description and leave the rest of the properties with their default values. You can add any tags you like to the project. Your should have something that looks like the following:
 
 ![Tutorial Project](../assets/images/tutorials/tutorial-project.png)
 
-2) Once you click save, you will go to the Project Dashboard. We will go straight to the screens.
+3) Once you click save, will notice that the project will automatically be added to the Manage Projects table as well as the navigation menu on the left:
 
-![Tutorial Project Dashboard](../assets/images/tutorials/tutorial-project-dashboard.png)
+![Tutorial Project Added](../assets/images/tutorials/tutorial-project-added.png)
 
-3) Click on the plus button to add a new screen.
+4) Next, click on the Tutorial Project menu item from the navigation menu and select New Screen:
 
-  ![Tutorial Screen Properties](../assets/images/tutorials/tutorial-form-screen-properties.png)
+![Tutorial Project New Screen](../assets/images/tutorials/tutorial-project-new-screen.png)
 
-4) Now we are ready to start building our layout. There are a total of five elements that we will use. We will create each individually using an animation that you can follow along.
+5) Name the screen, `form-screen`. Add any description and pick any icon you wish for the screen. You can add any tags you like to the screen. Your should have something that looks like the following:
+
+![Tutorial Project New Screen Properties](../assets/images/tutorials/tutorial-form-screen-properties.png)
+
+6) Clicking save will navigate you to the designer.
+
+7) We are now ready to start building our layout. There are a total of five elements that we will use. We will create each individually using an animation that you can follow along.
 
 ![Tutorial Form Animation](../assets/images/tutorials/tutorial-form-screen.gif)
+
+{% youtube src="https://youtu.be/z-4SzNHKqRE" %}{% endyoutube %}
 
 Here is a recap of each of the elements that were added and settings. In each element we set specific classes and styles. The following is a breakdown for each element:
 
@@ -47,9 +59,9 @@ Element | Attribute | Mode | Action
 --- | --- | --- |---
 BUTTON | click | delegate | actions.sayHello()
 
-5) Save you work.
+8) Save you work.
 
-6) Click the Actions tab and enter the following code:
+9) Click the Actions tab and enter the following code:
 
 ```javascript
 function (that, V) {
@@ -66,9 +78,9 @@ function (that, V) {
 
 **Note** We use `that` as a reference to the parent view model.
 
-7) Save your work.
+10) Save your work.
 
-8) Click the Data tab and enter the following JSON:
+11) Click the Data tab and enter the following JSON:
 
 ```json
 {
@@ -78,9 +90,9 @@ function (that, V) {
 }
 ```
 
-9) Save your work.
+12) Save your work.
 
-10) Click on the Preview button and you should see something like the following:
+13) Click on the Preview button and you should see something like the following:
 
 ![Tutorial Flexbox Preview](../assets/images/tutorials/tutorial-form-preview.png)
 
