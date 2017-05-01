@@ -33,7 +33,7 @@ Let's get started.
 
 ![Tutorial Form Animation](../assets/images/tutorials/tutorial-form-screen.gif)
 
-{% youtube src="https://youtu.be/z-4SzNHKqRE" %}{% endyoutube %}
+{% youtube src="https://www.youtube.com/watch?v=z-4SzNHKqRE" %}{% endyoutube %}
 
 Here is a recap of each of the elements that were added and settings. In each element we set specific classes and styles. The following is a breakdown for each element:
 
