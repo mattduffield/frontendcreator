@@ -23,7 +23,7 @@ Let's get started.
 
 ![Tutorial Project New Screen](../assets/images/tutorials/tutorial-project-new-screen.png)
 
-5) Name the screen, `form-screen`. Add any description and pick any icon you wish for the screen. You can add any tags you like to the screen. Your should have something that looks like the following:
+5) Name the screen, `form-screen`. Add any description and pick any icon you wish for the screen. You can add any tags you like to the screen. You should have something that looks like the following:
 
 ![Tutorial Project New Screen Properties](../assets/images/tutorials/tutorial-form-screen-properties.png)
 
