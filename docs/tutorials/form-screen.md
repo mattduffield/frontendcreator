@@ -29,7 +29,7 @@ Let's get started.
 
 6) Clicking save will navigate you to the designer.
 
-7) We are now ready to start building our layout. There are a total of five elements that we will use. We will create each individually using an animation that you can follow along.
+7) We are now ready to start building our layout. There are a total of five elements that we will use. We will create each individually using a video that you can follow along.
 
 {% youtube %}
   https://www.youtube.com/watch?v=z-4SzNHKqRE
