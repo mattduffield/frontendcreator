@@ -82,7 +82,9 @@ class ChartManager {
 }
 ```
 
-3) As you can see we are using a standard ES6 class. We have a helper method `loadJS` that allows us to add any JavaScript library, preferable on a CDN. When the ChartJS library loads, we then call the `chartCallback` method which does all the heavy work of creating the Chart. Take note that we are referencing a ID tag `myChart`. We will add that when we create our screen.
+3) As you can see we are using a standard ES6 class. We have a helper method `loadJS` that allows us to add any JavaScript library, preferable on a CDN. When the ChartJS library loads, we then call the `onScriptLoaded` method which assigns the chart object to `this` for access from other methods. Next, it calls the `initChart` method which does all the heavy work of creating the Chart. Take note that we are referencing a ID tag `myChart`. We will add that when we create our screen.
+
+**Note** Bringing in third-party libraries should be familiar as we are using RequireJS syntax here.
 
 4) Click the save button and the script should now show up on the left dock-pane.
 
@@ -120,7 +122,9 @@ Element | ID
 ------- | ---- 
 CANVAS | myChart
 
-![Tutorial Project Dashboard](../assets/images/tutorials/tutorial-designer-add-canvas.png)
+Here is a screenshot of the designer:
+
+![Tutorial Project Dashboard](../assets/images/tutorials/tutorial-chart-screen-canvas.png)
 
 14) Save you work.
 
