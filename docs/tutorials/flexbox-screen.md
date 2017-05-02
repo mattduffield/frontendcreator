@@ -60,13 +60,15 @@ Let's get started.
 
 ![Tutorial Project New Screen](../assets/images/tutorials/tutorial-project-new-screen.png)
 
-10) Name the screen, `navigation-screen`. Add any description and pick any icon you wish for the screen. You can add any tags you like to the screen. You should have something that looks like the following:
+10) Name the screen, `flexbox-screen`. Add any description and pick any icon you wish for the screen. You can add any tags you like to the screen. You should have something that looks like the following:
 
 ![Tutorial Screen Properties](../assets/images/tutorials/tutorial-flexbox-screen-properties.png)
 
 11) Clicking save will navigate you to the designer.
 
-12) Now we are ready to start building our layout. There are a total of seven elements that we will use. We will create each individually using an animation that you can follow along.
+12) Under the *Settings* tab select the flexbox-style style under the Screen Styles section.
+
+13) Now we are ready to start building our layout. There are a total of seven elements that we will use. We will create each individually using an animation that you can follow along.
 
 ![Tutorial Flexbox Animation](../assets/images/tutorials/tutorial-flexbox-screen.gif)
 
@@ -82,9 +84,9 @@ ARTICLE | MAIN | flex-row-3 align-items-center justify-content-center | article 
 ASIDE | MAIN | flex-row-1 | background-color: mistyrose;
 FOOTER | DIV | flex-row-none justify-content-end | footer content here...
 
-13) Save you work.
+14) Save you work.
 
-14) Click on the Preview button and you should see your layout like the following:
+15) Click on the Preview button and you should see your layout like the following:
 
 ![Tutorial Flexbox Preview](../assets/images/tutorials/tutorial-flexbox-preview.png)
 
