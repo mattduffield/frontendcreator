@@ -2,7 +2,9 @@
 
 Layout has always been a challenge when it comes to writing web applications forcing you to write an enormous amount of CSS or rely on a third-party library. Flexbox is one of the new kids on the block that has made this type of work easier, with minimal CSS. In this tutorial, we will be building the following layout, sometimes known as the holy grail in layout.
 
-![Tutorial Flexbox](../assets/images/tutorials/tutorial-flexbox.png)
+{% youtube %}
+  https://youtu.be/Ed8R91uI8Ec
+{% endyoutube %}
 
 Let's get started.
 
@@ -68,11 +70,7 @@ Let's get started.
 
 12) Under the *Settings* tab select the flexbox-style style under the Screen Styles section.
 
-13) Now we are ready to start building our layout. There are a total of seven elements that we will use. We will create each individually using an animation that you can follow along.
-
-![Tutorial Flexbox Animation](../assets/images/tutorials/tutorial-flexbox-screen.gif)
-
-Here is a recap of each of the elements that were added and settings. In each element we set specific classes and styles. The following is a breakdown for each element:
+13) We are now ready to start building our layout. There are a total of seven elements that we will use. The following is a table that breaks down each element with its Class and Content:
 
 Element | Host | Class | Content
 --- | --- | --- |---
@@ -88,6 +86,6 @@ FOOTER | DIV | flex-row-none justify-content-end | footer content here...
 
 15) Click on the Preview button and you should see your layout like the following:
 
-![Tutorial Flexbox Preview](../assets/images/tutorials/tutorial-flexbox-preview.png)
+![Tutorial Flexbox Preview](../assets/images/tutorials/tutorial-flexbox.png)
 
 That it! You have created your first Flexbox layout! Congratulations!
