@@ -90,6 +90,7 @@
 
 ## Tutorials
 
+* [Style Sheet](tutorials/style-sheet.md)
 * [Form Screen](tutorials/form-screen.md)
 * [Validation Screen](tutorials/validation-screen.md)
 * [Chart Screen](tutorials/chart-screen.md)
