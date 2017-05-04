@@ -9,7 +9,7 @@
 * [Login](basics/login.md)
 * [User Avatar](basics/user-avatar.md)
 * [Navigation Menu](basics/navigation-menu/readme.md)
-  * [Key Concepts](basics/navigation-menu/key-concepts.md)
+  <!-- * [Key Concepts](basics/navigation-menu/key-concepts.md) -->
 * [Styles](basics/styles/readme.md)
   <!-- * [Key Concepts](basics/styles/key-concepts.md) -->
 * [Scripts](basics/scripts/readme.md)
