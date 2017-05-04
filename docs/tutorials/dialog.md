@@ -62,7 +62,7 @@ Let's get started.
 
 Your screen should look like the following:
 
-![Dialogs](../assets/images/tutorial-confirm-dialog-designer.png)
+![Dialogs](../assets/images/tutorials/tutorial-confirm-dialog-designer.png)
 
 9) Okay, we have our dialog ready, now let's create another screen to test it
 
@@ -134,7 +134,7 @@ Finally, we show the dialog and then if it was an actionable response, we displa
 
 16) Remember to paste the Screen ID where it says, `<put screen id here...>`. Your screen should look the following with the exception of the value for the `confirmDialogId`:
 
-![Dialogs](../assets/images/tutorial-confirm-dialog-test-actions.png)
+![Dialogs](../assets/images/tutorials/tutorial-confirm-dialog-test-actions.png)
 
 17) Save your work.
 
