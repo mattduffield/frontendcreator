@@ -40,4 +40,6 @@ Let's get started.
 
 4) Click the save button and the script should now show up on the left dock-pane.
 
+![Tutorial Style](../assets/images/tutorials/tutorial-style-sheet-added.png)
+
 That's it! You have created a style that can be used in any screen! Congratulations!
