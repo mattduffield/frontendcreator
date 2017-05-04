@@ -69,7 +69,7 @@ As you can see from the markup, we have only single part that is dynamic. We are
 
 21) Under the *Settings* tab, select `welcome` under the Custom Elements section.
 
-![Tutorial Project Dashboard](../assets/images/tutorials/tutorial-welcome-host-setting.png)
+![Tutorial Project Dashboard](../assets/images/tutorials/tutorial-welcome-host-settings.png)
 
 22) Save your work.
 
