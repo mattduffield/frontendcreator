@@ -2,7 +2,7 @@
 
 The entities tab allow you to quickly drag existing entities on to the designer surface with databinding already configured on the fields. 
 
-![Drag and Drop Demo](../../assets/images/entity-drag-drop.gif)
+![Drag and Drop Demo](../../../assets/images/entity-drag-drop.gif)
 
 You must have already defined entities using the Entity Builder but you have the option of choosing between for different dynamic configurations:
 
