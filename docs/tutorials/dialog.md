@@ -76,7 +76,7 @@ Let's get started.
 
 14) Add a `click.delegate` to the button pointing to, "actions.confirm($event)". Your screen should look like the following:
 
-![Dialogs](../../assets/images/confirm-dialog-test-button.png)
+![Dialogs](../assets/images/confirm-dialog-test-button.png)
 
 15) In the `Actions` tab, make sure your code looks like the following:
 
@@ -136,11 +136,11 @@ Finally, we show the dialog and then if it was an actionable response, we displa
 
 19) You should see something like the following:
 
-![Dialogs](../../assets/images/confirm-dialog-test-preview.png)
+![Dialogs](../assets/images/confirm-dialog-test-preview.png)
 
 20) If you click, "Do it!", then you should also see the following:
 
-![Dialogs](../../assets/images/confirm-dialog-test-preview-response.png)
+![Dialogs](../assets/images/confirm-dialog-test-preview-response.png)
 
 21) Otherwise, you will not see anything as the dialog did not pass back a response.
 
