@@ -3,7 +3,7 @@
 The following are the steps required to use **FrontEnd Creator** and build a `confirm-dialog` screen:
 
 {% youtube %}
-  https://youtu.be/yqFTcCvbQMs
+  https://youtu.be/6e9hIbfxSj8
 {% endyoutube %}
 
 Let's get started.
