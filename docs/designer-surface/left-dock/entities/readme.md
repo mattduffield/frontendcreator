@@ -16,3 +16,5 @@ Table View | Creates a table with non-editable elements
 You also have the ability to toggle selection of entity fields to be include when dragging on to the surface.
 
 Finally, you can drag and drop the entity fields to order them exactly how you would like when dropping the entity on the designer surface.
+
+Refer to the [ Entity Builder ](../../advanced/entity-builder/readme.md) for more information on creating and using entities.
