@@ -40,7 +40,7 @@ Let's get started.
 This one is pretty straight forward. We are using Bootstrap classes to build our Panel.
 
 {% youtube %}
-  https://youtu.be/6m02xAGkOLc
+  https://youtu.be/_Tfuoresmnc
 {% endyoutube %}
 
 Here is a recap of each of the elements that were added and settings. 
