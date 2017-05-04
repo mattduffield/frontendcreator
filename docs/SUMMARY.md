@@ -69,9 +69,9 @@
 ## Advanced
 
 * [Data Form](advanced/data-form/readme.md)
-  * [Key Concepts](advanced/data-form/key-concepts.md)
+  <!-- * [Key Concepts](advanced/data-form/key-concepts.md) -->
 * [Validation](advanced/validation/readme.md)
-  * [Key Concepts](advanced/validation/key-concepts.md)
+  <!-- * [Key Concepts](advanced/validation/key-concepts.md) -->
   * [Advanced Concepts](advanced/validation/advanced-concepts.md)
 * [Composition](advanced/composition/readme.md)
   * [Key Concepts](advanced/composition/key-concepts.md)
