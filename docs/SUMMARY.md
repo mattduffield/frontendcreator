@@ -90,6 +90,7 @@
 
 ## Tutorials
 
+* [Add New Project](tutorials/manage-projects.md)
 * [Style Sheet](tutorials/style-sheet.md)
 * [Form Screen](tutorials/form-screen.md)
 * [Validation Screen](tutorials/validation-screen.md)

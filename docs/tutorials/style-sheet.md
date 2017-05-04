@@ -1,6 +1,6 @@
 #Style Sheet Tutorial
 
-In this tutorial, we will creating a simple style sheet that can be used with any screen.
+In this tutorial, we will be creating a simple style sheet that can be used with any screen.
 
 Let's get started.
 
