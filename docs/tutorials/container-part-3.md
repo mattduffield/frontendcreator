@@ -1,6 +1,6 @@
-#Container Tutorial - Part 3 Custom Elements
+#Container Tutorial - Part 3 Composition
 
-So far, we have built two separate components. We have a container with sliding panes and we now have a panel. In this tutorial, we are going to bring it all together by using custom elements and build out our container now with the panels included. Here is a screen shot of the layout we are going to build:
+So far, we have built two separate components. We have a container with sliding panes and we now have a panel. In this tutorial, we are going to bring it all together by using composition and build out our container now with the panels included. Here is a screen shot of the layout we are going to build:
 
 ![Tutorial Project](../assets/images/tutorials/tutorial-container-panel.png)
 
