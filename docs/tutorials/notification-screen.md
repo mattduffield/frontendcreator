@@ -28,9 +28,9 @@ Let's get started.
 
 ![Tutorial Project Dashboard](../assets/images/tutorials/tutorial-notification-screen-properties.png)
 
-11) Clicking save will navigate you to the designer.
+5) Clicking save will navigate you to the designer.
 
-14) We are now ready to start building our layout. This will be very simple markup.
+6) We are now ready to start building our layout. This will be very simple markup. Copy the following markup and paste it into the HTML tab:
 
 ```html
 <div class="flex-row-1">  
@@ -51,13 +51,13 @@ Let's get started.
 
 In the markup above, we are creating a simple Flexbox container. Next, we add buttons representing the individual types of notifications. We wire up the `click` delegate to call a function on the Actions tab.
 
-16) The following is what your your screen should look like:
+7) The following is what your your screen should look like:
 
-![Tutorial Notification Designer](../assets/images/tutorials/tutorial-notification-screen-designer.png
+![Tutorial Notification Designer](../assets/images/tutorials/tutorial-notification-screen-designer.png)
 
-17) Save your work.
+8) Save your work.
 
-18) Now, let's add the functions that correspond to each `click` delegate binding.
+9) Now, let's add the functions that correspond to each `click` delegate binding.
 
 ```javascript
 function (that, V) {
@@ -89,10 +89,10 @@ function (that, V) {
 
 As you can see from above, we are simply referencing the `notifier` object and calling the `growl` function passing in our options.
 
-19) Save your work.
+10) Save your work.
 
-20) Here is a screenshot of previewing the `notification-screen` screen:
+11) Here is a screenshot of previewing the `notification-screen` screen:
 
 ![Tutorial Notification Preview](../assets/images/tutorials/tutorial-notification-screen-preview.png)
 
-21) Congratulations! You have finished this tutorial!!
+12) Congratulations! You have finished this tutorial!!
