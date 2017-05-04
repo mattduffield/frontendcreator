@@ -70,7 +70,8 @@ Name | Element | Preview Data
 TextBox | input[type='checkbox'] | true or false
 TextBox | input[type='radio'] | true or false
 
-**Note:** A preview data section was added to the tables to help when you are using the [ Template Builder ](../template-builder/key-concepts.md) and want to visualize your templates immediately.
+> #### info::
+> A preview data section was added to the tables to help when you are using the [ Template Builder ](../template-builder/readme.md) and want to visualize your templates immediately.
 
 Click the save button after you have entered the fields you like. Next, if you click on the Entity JSON tab, you should see the following:
 

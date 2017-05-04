@@ -84,7 +84,8 @@ class ChartManager {
 
 3) As you can see we are using a standard ES6 class. We have a helper method `loadJS` that allows us to add any JavaScript library, preferable on a CDN. When the ChartJS library loads, we then call the `onScriptLoaded` method which assigns the chart object to `this` for access from other methods. Next, it calls the `initChart` method which does all the heavy work of creating the Chart. Take note that we are referencing a ID tag `myChart`. We will add that when we create our screen.
 
-**Note:** Bringing in third-party libraries should be familiar as we are using *RequireJS* syntax here.
+> #### info::
+> Bringing in third-party libraries should be familiar as we are using *RequireJS* syntax here.
 
 4) Click the save button and the script should now show up on the left dock-pane.
 
@@ -143,7 +144,8 @@ function (that, V) {
 }
 ```
 
-**Note** We use `that` as a reference to the parent view model. We also reference all scripts selected in the designer from the `Script` object.
+> #### info::
+> We use `that` as a reference to the parent view model. We also reference all scripts selected in the designer from the `Script` object.
 
 16) Save your work.
 

@@ -95,7 +95,8 @@ function (that, V) {
 }
 ```
 
-  **Note** We use `that` as a reference to the parent view model.
+> #### info::
+> We use `that` as a reference to the parent view model.
 
 10) Save your work.
 

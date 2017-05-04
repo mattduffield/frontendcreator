@@ -16,7 +16,7 @@ Let's first go over all of the components of the navigation builder. The navigat
 
 You have the following actions that you can perform on a navigation:
 
-- Export - after you have all of your screens ready and a navigation with corresponding routes, you can export the application to your local file system. Please refer to the [ Application Export ](../application-export/key-concepts.md) document for guidance on running your application locally
+- Export - after you have all of your screens ready and a navigation with corresponding routes, you can export the application to your local file system. Please refer to the [ Application Export ](../application-export/readme.md) document for guidance on running your application locally
 - New - this allows you to create a new navigation. The mnemonic to execute this button is `Ctrl|Cmd + Plus`
 - Save - this allows you to save your current navigation. The mnemonic to execute this button is `Ctrl|Cmd + S`
 - Load - this allows you to load an existing navigation
@@ -29,7 +29,11 @@ Let's now take a look at the fields that make up an individual route:
 ![Navigation Builder](../../assets/images/navigation-builder-routes.png)
 
 - IsNav - this is a checkbox that determines if the route should be visible when creating a menu from the router
-- IsDefault - this indicates which of the routes is identified as the default route. **Note:** currently, you can check all routes with this value. Only one route should ever have this selected
+- IsDefault - this indicates which of the routes is identified as the default route. 
+
+> #### danger::
+> Currently, you can check all routes with this value. Only one route should be selected.
+
 - Screen - this is a dropdown that lists all of your screens across all projects. You may have projects where you have created screens or dialogs that are common across all applications
 - Display - this is what is display in the menu
 - Icon - this is an icon that can be used for display in the menu or the screen. This defaults to the icon selected when creating the screen

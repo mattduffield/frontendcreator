@@ -76,7 +76,8 @@ function (that, V) {
 }
 ```
 
-**Note** We use `that` as a reference to the parent view model.
+> #### info::
+> We use `that` as a reference to the parent view model.
 
 10) Save your work.
 
@@ -97,6 +98,4 @@ function (that, V) {
 ![Tutorial Flexbox Preview](../assets/images/tutorials/tutorial-form-preview.png)
 
 That's it! You have created your first form with bindings! Congratulations!
-
-[ Tutorials ](tutorials/tutorials)
 

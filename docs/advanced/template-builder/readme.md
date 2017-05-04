@@ -73,4 +73,5 @@ The template works in conjunction with an Entity. This is the reason for the Sam
 
 The important thing to note here is that we have two field entries. Each field has an `index` property. This should correspond to the *placeholder* you defined in template. So for the template markup we just saw, we are putting a string that represents a person name in the first (0) index position and a text string in second (1) index position.
 
-To understand what your options are a given field, please refer to the documentation on [ Entity Builder ](../entity-builder/key-concepts.md) and look at the corresponding tables.
+> #### info::
+> To understand what your options are a given field, please refer to the documentation on [ Entity Builder ](../entity-builder/readme.md) and look at the corresponding tables.
