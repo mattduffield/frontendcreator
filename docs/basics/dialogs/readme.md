@@ -22,4 +22,4 @@ Refer to the [ Dialog Tutorial ](../../tutorials/dialog.md) for tutorial on work
 
 
 > #### primary::
-> This covers using dialogs. If you are interested to learn more, feel free to take a look at the [ Aurelia Dialog](https://github.com/aurelia/dialog) documentation.
+> Please refer to the [ Aurelia Dialog](https://github.com/aurelia/dialog) documentation to learn more about using dialogs.
