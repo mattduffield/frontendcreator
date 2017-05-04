@@ -96,7 +96,7 @@ function (that, V) {
 
 ![Tutorial Flexbox Preview](../assets/images/tutorials/tutorial-form-preview.png)
 
-That it! You have created your first form with bindings! Congratulations!
+That's it! You have created your first form with bindings! Congratulations!
 
 [ Tutorials ](tutorials/tutorials)
 
