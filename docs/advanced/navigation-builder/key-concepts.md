@@ -1,9 +1,4 @@
-# Navigation Builder
-
-**WARNING: THIS DOCUMENT IS STILL UNDER CONSTRUCTION** 
-
-**PLEASE WAIT UNTIL THIS WARNING HAS BEEN REMOVED TO TRY TO FOLLOW ANY STEPS PROVIDED**
-
+#Navigation Builder
 
 The navigation builder allows you to define your overall routes for your application. Although the navigation builder allows you to create hierarchical menus, it will always be flattened out when in order to define a set of routes that correspond to all screens in a given navigation.
 

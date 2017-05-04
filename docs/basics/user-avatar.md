@@ -6,25 +6,25 @@ After you have successfully logged in, you will probably want to set your user p
 
 You can change this and add your own by following these simple steps:
 
-1. Click on the User button in the top right corner of the application as shown below:
+1) Click on the User button in the top right corner of the application as shown below:
 
-  ![User Button](../assets/images/user-button.png)
+![User Button](../assets/images/user-button.png)
 
-  It should launch the `User Settings Dialog` as shown below:
+It should launch the `User Settings Dialog` as shown below:
 
-  ![User Settings](../assets/images/user-settings.png)
+![User Settings](../assets/images/user-settings.png)
 
-2. Next, click on the avatar in the top right corner of the dialog screen to launch the `Set Avatar` dialog:
+2) Next, click on the avatar in the top right corner of the dialog screen to launch the `Set Avatar` dialog:
 
-  ![Set Avatar](../assets/images/set-avatar.png)
+![Set Avatar](../assets/images/set-avatar.png)
 
-3. Here, you can paste in a valid URL to an avatar that you would like to use. Once you have entered in a valid URL, you should see a preview of the avatar as shown below:
+3) Here, you can paste in a valid URL to an avatar that you would like to use. Once you have entered in a valid URL, you should see a preview of the avatar as shown below:
 
-  ![Avatar Set](../assets/images/avatar-set.png)
+![Avatar Set](../assets/images/avatar-set.png)
 
-4. Finally, click the `Submit` button to save your avatar to your user profile.
+4) Finally, click the `Submit` button to save your avatar to your user profile.
 
-  ![Avatar Set](../assets/images/new-avatar.png)
+![Avatar Set](../assets/images/new-avatar.png)
 
-5. You should now see your new avatar in all of your screens. It will also be used in the Market Place when you upload an asset.
+5) You should now see your new avatar in all of your screens. It will also be used in the Market Place when you upload an asset.
 
