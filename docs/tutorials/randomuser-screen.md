@@ -1,8 +1,10 @@
 #REST API Screen Tutorial
 
-This tutorial will walk you through creating a script that makes use of the HTTP fetch client and gets random user data from a REST API. Here is a screen shot of the layout we are going to build:
+This tutorial will walk you through creating a script that makes use of the HTTP fetch client and gets random user data from a REST API. 
 
-![Tutorial Project](../assets/images/tutorials/tutorial-randomuser-designer.png)
+{% youtube %}
+  https://youtu.be/-MnlSIo0i9s
+{% endyoutube %}
 
 Let's get started.
 
@@ -119,9 +121,9 @@ class RandomUsers {
 ```javascript
 function (that, V) {
   function attached() {
-    that.randomUser = that.classBuilder(that.Script.RandomUser,
-      that.Script.RandomUser_inject);
-    return that.randomUser.getUsers(15)
+    that.randomUsers = that.classBuilder(that.Script.RandomUsers,
+      that.Script.RandomUsers_inject);
+    return that.randomUsers.getUsers(15)
       .then(data => that.users = data.results);
   }
   
