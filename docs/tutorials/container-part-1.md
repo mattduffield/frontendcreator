@@ -1,4 +1,4 @@
-#Tutorial - Container with collapsible Panes, Part 1
+#Container Tutorial - Part 1 Collapsible Panes
 
 The following are the steps required to use **FrontEnd Creator** to create a dock container using Flexbox. This is part 1 in a three-part series. We will create a dock container in this first tutorial. The container will have two collapsible panes. Here is a screen shot of the layout we are going to build:
 

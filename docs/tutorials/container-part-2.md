@@ -1,4 +1,4 @@
-#Tutorial - Container with collapsible Panes, Part 2
+#Container Tutorial - Part 2 Bootstrap Pane
 
 In this part, we are going to create a Bootstrap Panel. These panels will be used in the third and final part of this series. Here is a screen shot of the layout we are going to build:
 
