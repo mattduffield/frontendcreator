@@ -119,7 +119,7 @@
   * [Flexbox Classes](reference/css/flexbox-classes.md)
   * [Layout Classes](reference/css/layout-classes.md)
 * [Validation](reference/validation/readme.md)
-  * [API](reference/validation/api.md)
+  <!-- * [API](reference/validation/api.md) -->
 
 ## Release Notes
 
