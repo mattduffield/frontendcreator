@@ -33,7 +33,7 @@
 
 * [Left Dock](designer-surface/left-dock/readme.md)
   * [Toolbox](designer-surface/left-dock/toolbox/readme.md)
-    * [Key Concepts](designer-surface/left-dock/toolbox/key-concepts.md)
+    <!-- * [Key Concepts](designer-surface/left-dock/toolbox/key-concepts.md) -->
   * [Bootstrap](designer-surface/left-dock/bootstrap/readme.md)
     * [Key Concepts](designer-surface/left-dock/bootstrap/key-concepts.md)
   * [Components](designer-surface/left-dock/components/readme.md)

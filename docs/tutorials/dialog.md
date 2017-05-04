@@ -80,7 +80,7 @@ Your screen should look like the following:
 
 14) Add a `click.delegate` to the button pointing to, "actions.confirm($event)". Your screen should look like the following:
 
-![Dialogs](../assets/images/tutorials/tutorial-confirm-dialog-test-designer.png)
+![Dialogs](../assets/images/tutorials/tutorial-confirm-dialog-test-actions.png)
 
 15) In the `Actions` tab, make sure your code looks like the following:
 
