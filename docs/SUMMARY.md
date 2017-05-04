@@ -57,12 +57,12 @@
     <!-- * [Key Concepts](designer-surface/central-area/schema/key-concepts.md) -->
 * [Right Dock](designer-surface/right-dock/readme.md)
   * [Properties](designer-surface/right-dock/properties/readme.md)
-    * [Key Concepts](designer-surface/right-dock/properties/key-concepts.md)
+    <!-- * [Key Concepts](designer-surface/right-dock/properties/key-concepts.md) -->
     * [Classes, Attributes & Styles](designer-surface/right-dock/properties/classes-attributes-styles.md)
     * [Binding](designer-surface/right-dock/properties/binding.md)
     * [Events](designer-surface/right-dock/properties/events.md)
   * [Settings](designer-surface/right-dock/settings/readme.md)
-    * [Key Concepts](designer-surface/right-dock/settings/key-concepts.md)
+    <!-- * [Key Concepts](designer-surface/right-dock/settings/key-concepts.md) -->
   * [Preview](designer-surface/right-dock/preview/readme.md)
     <!-- * [Key Concepts](designer-surface/right-dock/preview/key-concepts.md) -->
 
