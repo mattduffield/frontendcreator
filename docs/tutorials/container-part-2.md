@@ -24,7 +24,7 @@ Let's get started.
 
 5) Name the screen, `container`. Add any description and pick any icon you wish for the screen. You can add any tags you like to the screen. You should have something that looks like the following:
 
-![Tutorial Panel Properties](../assets/images/tutorials/tutorial-panel-properties.png)
+![Tutorial Panel Properties](../assets/images/tutorials/tutorial-container2-properties.png)
 
 6) Now we are ready to start building our layout. Click on the HTML tab and replace the following snippet in the editor. 
 
