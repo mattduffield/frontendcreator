@@ -128,7 +128,9 @@ Looking at the above code, you can see that we are loading the dialog when our v
 
 Finally, we show the dialog and then if it was an actionable response, we display a toast message. In our case, actionable was calling "ok" on the dialog controller passing it `true`. Again, you can pass back any value or object you like.
 
-16) Remember to paste the Screen ID where it says, "<put screen id here...>"
+16) Remember to paste the Screen ID where it says, `<put screen id here...>`. Your screen should look the following with the exception of the value for the `confirmDialogId`:
+
+![Dialogs](../assets/images/tutorial-confirm-dialog-test-actions.png)
 
 17) Save your work.
 
