@@ -6,7 +6,7 @@ Let's get started.
 
 1) Click on the *Styles* menu item from the navigation menu. Here we will add our style. Enter the following into the Style Properties pane:
 
-![Tutorial Flexbox Style](../assets/images/tutorials/tutorial-style-properties.png)
+![Tutorial Style](../assets/images/tutorials/tutorial-style-sheet-properties.png)
 
 2) Next, copy and paste the following code into the editor:
 
