@@ -104,6 +104,7 @@
 * [Phone Card Template](tutorials/phone-card-template.md)
 * [Custom Element](tutorials/custom-element.md)
 * [Notification Screen](tutorials/notification-screen.md)
+* [Dialog Screen](tutorials/dialog.md)
 
 ## Sample Applications
 
