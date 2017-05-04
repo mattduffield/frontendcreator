@@ -106,7 +106,7 @@ class ChartManager {
 
 ![Tutorial Project New Screen](../assets/images/tutorials/tutorial-project-new-screen.png)
 
-10) Name the scree, `chart-screen`. Add any description and pick any icon you wish for the screen. You can add any tags you like to the screen. You should have something that looks like the following:
+10) Name the screen, `chart-screen`. Add any description and pick any icon you wish for the screen. You can add any tags you like to the screen. You should have something that looks like the following:
 
 ![Tutorial Project Dashboard](../assets/images/tutorials/tutorial-screen-properties.png)
 

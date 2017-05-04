@@ -23,9 +23,7 @@ Let's get started.
 
 ![Tutorial Project New Screen](../assets/images/tutorials/tutorial-project-new-screen.png)
 
-5) Name the scree, `chart-screen`. Add any description and pick any icon you wish for the screen. You can add any tags you like to the screen. You should have something that looks like the following:
-
-![Tutorial Project Dashboard](../assets/images/tutorials/tutorial-screen-properties.png)
+5) Name the screen, `container`. Add any description and pick any icon you wish for the screen. You can add any tags you like to the screen. You should have something that looks like the following:
 
 ![Tutorial Container Properties](../assets/images/tutorials/tutorial-container-properties.png)
 
@@ -68,9 +66,18 @@ Let's get started.
 </div>
 ```
 
-Before we move on, notice how we are using inline styles to help us with styling this page. We could have taken this further and replaced some of the classes that we have on the elements. Just remember that you can do this either by setting the style attribute on the element itself or by providing some CSS. Both of these approaches do no require any interpolation or bindings.
+Before we move on, notice how we are using inline styles to help us with styling this page. This is done more for seeing what the layout looks like in the designer more than anything else.
 
-Here is a recap of each of the elements that were added and settings. In each element we set specific classes and styles. The following is a breakdown for each element:
+The best practice would be to take the style and create a new sheet in the Style editor. Refer to the following tutorial if you would to do that. Just remember that you will not see the styles applied until you *Preview* your screen.
+
+Another approach, but less recommended, is by setting the the styles attribute of individual elements. This is not very flexible as you will not be able to use CSS to affect styles that have been applied at the element level.
+
+--> video here <--
+
+Here is a recap of each of the elements that were added and settings. 
+
+###Element Classes
+The following is a breakdown for each element on the screen with its corresponding *class* values:
 
 Element | Host | Class 
 --- | --- | --- |---
@@ -86,6 +93,9 @@ DIV | DIV | vertical-text
 ASIDE | MAIN | flex-row-1 min-max-width-400 margin-15
 FOOTER | DIV | flex-row-none justify-content-end
 
+###Element Content
+The following is a breakdown for each element on the screen with its corresponding *content* values:
+
 Element | Host | Content
 --- | --- | ---
 DIV |  |  
@@ -100,8 +110,7 @@ DIV | DIV | Right tab
 ASIDE | MAIN | aside content here...
 FOOTER | DIV | footer content here...
 
-
-## Events
+###Element Events
 The following are the events on the elements:
 
 Element | Attribute | Mode | Action
@@ -149,4 +158,3 @@ function (that, V) {
 
 That's it! You have completed part 1! Congratulations!
 
-[ Tutorials ](tutorials/tutorials) | [ Next -> ](container-part-2)
