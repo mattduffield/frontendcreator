@@ -24,9 +24,13 @@ As you can see from the animation, you can use the validation summary to navigat
 
 The data-form has the following attributes:
 
-* **auto-generate-fields** - You can set this to `true` and let the data-form generate the fields for you.
-* **current-item** - You bind this attribute to your underlying data object.
-* **validate-on-blur** - You can set this to `true` so that validation will occur on blur.
-* **schema** - You bind this attribute to your underlying schema object.
+Attribute | Description
+--------- | -----------
+auto-generate-fields | You can set this to `true` and let the data-form generate the fields for you
+current-item | You bind this attribute to your underlying data object
+validate-on-blur | You can set this to `true` so that validation will occur on blur
+schema | You bind this attribute to your underlying schema object
 
-**Remember** You can learn more about using [ Validation - Advanced Concepts ](../validation/key-concepts.md).
+
+> #### info::
+> You can learn more about using [ Validation - Advanced Concepts ](../validation/readme.md).

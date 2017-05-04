@@ -4,9 +4,11 @@ The validator is a custom attribute designed to provide form validation without 
 
 The validator has the following properties you can set:
 
-* **data-context** - this determines the root object where validation starts.
-* **schema** - this is the object that holds the validation rules.
-* **show-validation-summary** - this specifies whether or not to display a validation summary.
+Property | Description
+-------- | -----------
+data-context | this determines the root object where validation starts
+schema | this is the object that holds the validation rules
+show-validation-summary | this specifies whether or not to display a validation summary
 
 
 The following is an example of the HTML markup required to get a data-form configured. If you create a new screen and select Is DataForm, then this will already be set for you:
@@ -29,5 +31,5 @@ Here you can see the validator in action:
 
 As you can see from the animation, you can use the validation summary to navigate to each individual validation error.
 
-**Remember** You can learn more about using [ Validation - Advanced Concepts ](./advanced-concepts.md).
-
+> #### info::
+> You can learn more about using [ Validation - Advanced Concepts ](../validation/readme.md).
