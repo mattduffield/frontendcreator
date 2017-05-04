@@ -17,7 +17,7 @@
 * [Manage Projects](basics/projects/readme.md)
   <!-- * [Key Concepts](basics/projects/key-concepts.md) -->
 * [Screens](basics/screens/readme.md)
-  * [Key Concepts](basics/screens/key-concepts.md)
+  <!-- * [Key Concepts](basics/screens/key-concepts.md) -->
 * [Custom Elements](basics/custom-elements/readme.md)
   * [Key Concepts](basics/custom-elements/key-concepts.md)
 * [Dialogs](basics/dialogs/readme.md)
