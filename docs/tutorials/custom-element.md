@@ -3,7 +3,7 @@
 The following are the steps required to use **FrontEnd Creator** and build a `welcome` screen as a custom element. We will then create a `welcome-host` that will use the `welcome` screen as a custom element as well as passing bindings on the `welcome` tag.
 
 {% youtube %}
-  https://youtu.be/Ty6GIQjAuEE
+  https://youtu.be/yqFTcCvbQMs
 {% endyoutube %}
 
 Let's get started.
