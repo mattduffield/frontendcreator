@@ -10,6 +10,8 @@ The navigation menu is broken up into two sections. The upper section consists o
 
 ## Navigation Menu Contents
 
+The screens that have vertical sliders allow you to click on them to toggle open or closed states. You can also use the keyboard mnemonic `Cmd|Ctrl + F2` or  `Cmd|Ctrl + F3` for the left and right panes respectively.
+
 #### Styles
 The Styles screen is where you are presented with an editor and a list of existing styles for your project. You can perform all actions necessary for managing styles. You author styles using standard CSS syntax.
 
