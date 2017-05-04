@@ -99,6 +99,7 @@
 * [Container - Part 1](tutorials/container-part-1.md)
 * [Container - Part 2](tutorials/container-part-2.md)
 * [Container - Part 3](tutorials/container-part-3.md)
+* [Container - Part 4](tutorials/container-part-4.md)
 * [REST API Screen](tutorials/randomuser-screen.md)
 * [Phone Card Template](tutorials/phone-card-template.md)
 
