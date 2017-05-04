@@ -124,7 +124,8 @@ In the `container-host` scree, the following is the HTML markup for the `contain
 
 As you can see we need to `require` our other screens so that we can use them. For each `panel`, we provide the `slot` names so that they are rendered in the correct location. Finally, we are setting the *class* attribute of the two panels so that they fit the screen properly.
 
-**Note:** Since we are using Custom Elements in **FrontEnd Creator**, rendering them in the designer is problematic as the designer wants to deal with raw HTML instead of custom elements. We can easily *preview* our work but seeing in the designer will not show much.
+> #### info::
+> Since we are using Custom Elements in **FrontEnd Creator**, rendering them in the designer is problematic as the designer wants to deal with raw HTML instead of custom elements. We can easily *preview* our work but seeing in the designer will not show much.
 
 8) Save you work.
 

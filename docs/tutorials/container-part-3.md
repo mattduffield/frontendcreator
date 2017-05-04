@@ -36,7 +36,8 @@ Let's get started.
 
 We will simply be dragged the `container` and `panel` components onto the designer. We also adjusted some content as well as removed some `background-color` styles.
 
-**Note:** Although, this is powerful and allows you to compose your screens together quickly, it lacks the ability to reference the `container` and `panel` as custom elements. In the next tutorial, we will look at an alternative route to building this out using custom elements.
+> #### info::
+> Although, this is powerful and allows you to compose your screens together quickly, it lacks the ability to reference the `container` and `panel` as custom elements. In the next tutorial, we will look at an alternative route to building this out using custom elements.
 
 8) Save you work.
 

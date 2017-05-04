@@ -133,8 +133,8 @@ function (that, V) {
 }
 ```
 
-**Note** We use `that` as a reference to the parent view model.
-**Script** Take note that all scripts are referenced from the `Script` object.
+> #### info::
+> We use `that` as a reference to the parent view model. Take note that all scripts are referenced from the `Script` object.
 
 We are using a helper function that is exposed by our hosting view-model, `classBuilder`. It is this function that does the actual creation and injection of our dependencies and returns us back an instance. As you can see, the `classBuilder` function expects two arguments: RandomUser and RandomUser_inject. **FrontEnd Creator** creates the second object for us when the screen is first initialized and a script has been included.
 
