@@ -17,4 +17,4 @@ You also have the ability to toggle selection of entity fields to be include whe
 
 Finally, you can drag and drop the entity fields to order them exactly how you would like when dropping the entity on the designer surface.
 
-Refer to the [ Entity Builder ](../../advanced/entity-builder/readme.md) for more information on creating and using entities.
+Refer to the [ Entity Builder ](../../../advanced/entity-builder/readme.md) for more information on creating and using entities.
