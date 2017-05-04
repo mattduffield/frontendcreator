@@ -112,7 +112,7 @@ class ChartManager {
 
 11) Clicking save will navigate you to the designer.
 
-12) Under the *Settings* tab, select the ChartManager script under the Screen Scripts section.
+12) Under the *Settings* tab, select the `ChartManager` script under the Screen Scripts section.
 
 13) We are now ready to start building our layout. There is only a single element that we will use.
 
