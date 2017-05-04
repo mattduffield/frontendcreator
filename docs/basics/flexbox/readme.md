@@ -77,4 +77,5 @@ If you are interested in building the previous layout using Flexbox, you can go 
 
 For a list of Flexbox classes provided see [ Flexbox Classes ](../../reference/flexbox-classes.md)
 
-**Note:** Please refer to Flexbox documentation online for further understanding and usage of all the settings.
+> #### primary::
+> Please refer to Flexbox documentation online for further understanding and usage of all the settings.
