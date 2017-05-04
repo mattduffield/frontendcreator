@@ -9,10 +9,12 @@ There may come a time when you have a lot of complex logic or want to use a thir
 Please Note:  When the screen loads, you are in the context of a new script. 
 You can simply start typing in the editor. You can collapse the dock-panes at any time. It is important to provide Script Properties prior to saving the script. 
 
-* ID - this is readonly and simply represents the ID of the script
-* Name - this is the name of the script. Typically, you will want to use pascal-case, e.g. `MyClass` for the name of the script. 
-* Description - this is just a general description of the script
-* Icon - this is used to visually identify your script
+Field | Description
+----- | -----------
+ID | This is readonly and simply represents the ID of the script
+Name | This is the name of the script. Typically, you will want to use pascal-case, e.g. `MyClass` for the name of the script. 
+Description | This is just a general description of the script
+Icon | This is used to visually identify your script
 
 The following is a screen shot of the Script Properties:
 

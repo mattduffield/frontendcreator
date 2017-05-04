@@ -32,7 +32,8 @@ Next, you will need to **require** the custom element, just as you would a stand
 
 As you can see, once you save, the `Preview` tab renders the contents of the custom element. 
 
-**Note:** The designer does not know how to render the custom element as it treats it as pure markup. 
+> #### danger::
+> The designer does not know how to render the custom element as it treats it as pure markup. 
 
 Now, if you were to change the `welcome` text, etc. and save. You would immediately get those changes the next time you rendered your new screen.
 

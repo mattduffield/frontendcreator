@@ -6,7 +6,8 @@ The next animation shows adding a click event to a button:
 
 After we have setup the click event, we can verify that it is working against a function in our Actions tab as well as see it live in the Preview tab or launching a new Preview browser tab.
 
-**Remember** You must save to get the changes to be reflected in the Preview.
+> #### danger::Remember
+> You must save to get the changes to be reflected in the Preview.
 
 ![Designer data-bind](../../../assets/images/click-delegate-preview.gif)
 

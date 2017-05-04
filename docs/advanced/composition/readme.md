@@ -8,6 +8,7 @@ The following is a screenshot of composing Flexbox container with a Panel:
 
 ![Tutorial Container Preview](../../assets/images/tutorials/tutorial-container-panel-preview.gif)
 
-Refer to the [ Container Part 1 ](../../tutorials/container-part-1.md), [ Container Part 3 ](../../tutorials/container-part-2.md), and [ Container Part 3 ](../../tutorials/container-part-3.md) tutorials on how to create the above example.
+Refer to the [ Container Part 1 ](../../tutorials/container-part-1.md), [ Container Part 2 ](../../tutorials/container-part-2.md), and [ Container Part 3 ](../../tutorials/container-part-3.md) tutorials on how to create the above example.
 
-**Note** It is important to know that when you drag from the Components tab in the designer, you are really only adding the HTML. You will need to ensure all other settings are in place if the other screen set any Actions, Data, or Schema.
+> #### info::
+> It is important to know that when you drag from the Components tab in the designer, you are really only adding the HTML. You will need to ensure all other settings are in place if the other screen set any Actions, Data, or Schema.

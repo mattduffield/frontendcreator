@@ -22,7 +22,8 @@ The following is a screen shot of the add/edit/clone dialog:
 
 Every screen has a screen name, description, flag asking whether this is a Data Form, a screen icon and Tags. The icon is used on the designer. Currently the icons you can select from are from FontAwesome. When you select the Data Form checkbox, it allows you to quickly scaffold admin screens by creating a form with inputs corresponding to the data provided. It also provides for validation and several settings on how to control validation as well as showing a validation summary.
 
-**Note:** The screen name and icon will show up on the sub-menu when you click on a given *Project* from the Navigation Menu. Therefore it is important that you provide meaningful names as well as a useful icon to help you remember.
+> #### danger::
+> The screen name and icon will show up on the sub-menu when you click on a given *Project* from the Navigation Menu. Therefore it is important that you provide meaningful names as well as a useful icon to help you remember.
 
 ## Custom Elements
 

@@ -42,4 +42,5 @@ Now, if we switch back over to the `Settings` tab and change the `Language Mappi
 
 This only works if you change your language preference at the operating system level. You will need to close all instance of the browser you are using for this to take effect. However, it is still pretty easy to test your languages. 
 
-**Note** We detect the preferred language from the operating system the user is using. The browser then identifies this language and we try to load it if available. It is important that you have all related languages grouped to the same value so that the application can find the correct corresponding language. 
+> #### info::
+> We detect the preferred language from the operating system the user is using. The browser then identifies this language and we try to load it if available. It is important that you have all related languages grouped to the same value so that the application can find the correct corresponding language. 

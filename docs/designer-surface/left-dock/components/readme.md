@@ -6,7 +6,8 @@ The following is a screen shot of the components tab:
 
 ![Designer components](../../../assets/images/designer-components.png)
 
-**Note** Be aware that you are simply dragging the HTML markup that represents the screen. All Actions, Scripts, and Styles from the original screen are not added.
+> #### danger::
+> Be aware that you are simply dragging the HTML markup that represents the screen. All Actions, Scripts, and Styles from the original screen are not added.
 
 To add a component on to the designer surface, simply click and drag the element from the components tab onto the designer surface.
 

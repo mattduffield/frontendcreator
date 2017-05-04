@@ -75,7 +75,7 @@ Consider the following layout. It is possible to create this and with very littl
 
 If you are interested in building the previous layout using Flexbox, you can go to the tutorial [ Flexbox Tutorial ](../../tutorials/flexbox-screen.md).
 
-For a list of Flexbox classes provided see [ Flexbox Classes ](../../reference/flexbox-classes.md)
+For a list of Flexbox classes provided see [ Flexbox Classes ](../../reference/css/flexbox-classes.md)
 
 > #### primary::
 > Please refer to Flexbox documentation online for further understanding and usage of all the settings.

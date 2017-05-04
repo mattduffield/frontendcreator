@@ -110,7 +110,8 @@ If you save and then click on the Preview tab on the right side, you should see 
 
 You will notice that the *Gender* element is incomplete. This due to the fact that the HTML is expecting gender values. We will take of that in just a second.
 
-**Note** The system makes the assumption that you are binding to an object called, `currentItem`. You can change this and anything else to be sure that all is working properly. Also, the system puts placeholders for the Radio bindings and the Select option bindings. You will need to provide the valid objects in order for this to work properly. Sometimes, it is easier to adjust these settings by looking at the HTML tab.
+> #### danger::
+> The system makes the assumption that you are binding to an object called, `currentItem`. You can change this and anything else to be sure that all is working properly. Also, the system puts placeholders for the Radio bindings and the Select option bindings. You will need to provide the valid objects in order for this to work properly. Sometimes, it is easier to adjust these settings by looking at the HTML tab.
 
 The following is a screenshot of the HTML tab:
 
@@ -147,7 +148,8 @@ Okay, one last twist, let's delete what we have on the designer and drag a Table
 
 ![Entity Builder Table Edit](../../assets/images/entity-builder-table-edit.png)
 
-**Note:** You may encounter that drag and drop stops working. Simply save your changes and reload the screen. After you authenitcate, you will return right back where you were. We are working to correct this issue.
+> #### danger::
+> You may encounter that drag and drop stops working. Simply save your changes and reload the screen.
 
 We will need to change our Data just a little in order to support rows of data instead of a single data object. Switch over to the Data tab and make sure it looks like the following:
 

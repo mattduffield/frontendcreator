@@ -8,7 +8,8 @@ The following animation demonstrates adding a binding to the value property of a
 
 After we have setup the binding, we can verify that it is working against object defined in our Data tab as well as see it live in the Preview tab or launching a new Preview browser tab.
 
-**Remember** You must save to get the changes to be reflected in Preview.
+> #### danger::Remember
+> You must save to get the changes to be reflected in Preview.
 
 ![Designer data-bind](../../../assets/images/data-bind-preview.gif)
 

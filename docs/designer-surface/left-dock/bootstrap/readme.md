@@ -10,4 +10,5 @@ To add a Bootstrap component on to the designer surface, simply click and drag t
 
 ![Designer toolbox](../../../assets/images/designer-bootstrap-drag-drop.gif)
 
-**Note:** You may find the designer acts strange when mixing Bootstrap with non-Bootstrap elements due to how the Bootstrap Grid works. Usually you can adjust your existing elements by adding a `row` or `col-...` class.
+> #### danger::
+> You may find the designer acts strange when mixing Bootstrap with non-Bootstrap elements due to how the Bootstrap Grid works. Usually you can adjust your existing elements by adding a `row` or `col-...` class.

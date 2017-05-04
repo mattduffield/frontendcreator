@@ -33,10 +33,12 @@ The Translation Builder uses a simple convention. When you select a translation 
 #### Entity Builder
 The Entity Builder screen is where you define entity schema. This is used primarily in the desinger when you want to create data forms quickly. The Entity Builder currently supports generating the following types:
 
-* Edit Form - a form with data entry fields
-* View Form - a form with view only fields
-* Edit Table - a table with data entry fields
-* View Table - a table with view only fields
+Type | Description
+---- | -----------
+Edit Form | A form with data entry fields
+View Form | A form with view only fields
+Edit Table | A table with data entry fields
+View Table | A table with view only fields
 
 The Entity Builder has special `type` and `default element` values that work with the Template Builder.
 

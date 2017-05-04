@@ -8,10 +8,12 @@ You will find that sometimes it would be nice to author your own set of CSS rule
 
 When the screen loads, you are in the context of a new style. You can simply start typing in the editor. You can collapse the dock-panes at any time. It is important to provide Style Properties prior to saving the style. 
 
-* ID - this is readonly and simply represents the ID of this style
-* Name - this is the name of the style 
-* Description - this is just a general description of the style
-* Icon - this is used to visually identify your style
+Field | Description
+----- | -----------
+ID | This is readonly and simply represents the ID of this style
+Name | This is the name of the style 
+Description | This is just a general description of the style
+Icon | This is used to visually identify your style
 
 The following is a screen shot of the Style Properties:
 

@@ -1,13 +1,13 @@
 # Left Dock Pane
 
 The left dock pane contains the following tabs:
-*	[Toolbox](toolbox/key-concepts.md) (Drag & Drop capable)
-*   [Bootstrap](bootstrap/key-concepts.md)
-*   [Components](components/key-concepts.md)
-*   [Entities](entities/key-concepts.md)
-*   [DOM Tree](dom-tree/key-concepts.md)
+*	[Toolbox](toolbox/readme.md) 
+*   [Bootstrap](bootstrap/readme.md)
+*   [Components](components/readme.md)
+*   [Entities](entities/readme.md)
+*   [DOM Tree](dom-tree/readme.md)
 
-The items in these tabs will allow you drag and drop them into the central area. 
+The items in these tabs will allow you drag and drop them into the central area with the exception of the DOM Tree. 
 
 You can collapse the pane so that you have more surface to work on as well. The following animation shows how you can toggle the left dock pane:
 

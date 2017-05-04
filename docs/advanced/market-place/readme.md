@@ -41,7 +41,8 @@ Next, type in `style` and search, you should see something like the following:
 
 ![Market Place](../../assets/images/market-place-style-search.png)
 
-**Note:** It is possible to upload the same thing multiple times and we will want to have a solid workflow in place to handle for this.
+> #### danger::
+> It is possible to upload the same thing multiple times so be careful.
 
 If you type in `entity` and search, you should see something like the following:
 
@@ -51,7 +52,8 @@ Finally, if you search on `language`, you will something like the following:
 
 ![Market Place](../../assets/images/market-place-language-search.png)
 
-**Note:** There is no easy way to update an asset uploaded to the Market Place. It will be important to allow for updating your assets as well as managing tags and other settings.
+> #### danger::
+> There is no easy way to update an asset uploaded to the Market Place. It will be important to allow for updating your assets as well as managing tags and other settings.
 
 Let's now look at what happens when we attempt to download an asset. We will download the `randomusers-screen`. When you attempt to download an asset, it will want you to provide an existing Project. For the following example, we have set up a `Downloads` project. Consider the following screenshot:
 

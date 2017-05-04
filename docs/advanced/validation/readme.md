@@ -32,4 +32,4 @@ Here you can see the validator in action:
 As you can see from the animation, you can use the validation summary to navigate to each individual validation error.
 
 > #### info::
-> You can learn more about using [ Validation - Advanced Concepts ](../validation/readme.md).
+> You can learn more about using [ Validation - Advanced Concepts ](../validation/advanced-concepts.md).

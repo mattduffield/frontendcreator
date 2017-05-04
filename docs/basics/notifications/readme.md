@@ -33,6 +33,6 @@ The following animation demonstrates clicking on each button and see the notific
 
 ![Notification Animation](../../assets/images/notification.gif)
 
-Refer to the [ Notification Screen Tutorial ](../../tutorials/notification-screen.md) for tutorial on working with the Notification API in your screens.
+Refer to the [ Notification Tutorial ](../../tutorials/notification-screen.md) for tutorial on working with the Notification API in your screens.
 
 
