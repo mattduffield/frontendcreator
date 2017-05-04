@@ -44,17 +44,17 @@
     <!-- * [Key Concepts](designer-surface/left-dock/dom-tree/key-concepts.md) -->
 * [Central Area](designer-surface/central-area/readme.md)
   * [Designer](designer-surface/central-area/designer/readme.md)
-    * [Key Concepts](designer-surface/central-area/designer/key-concepts.md)
+    <!-- * [Key Concepts](designer-surface/central-area/designer/key-concepts.md) -->
   * [JSON](designer-surface/central-area/json/readme.md)
-    * [Key Concepts](designer-surface/central-area/json/key-concepts.md)
+    <!-- * [Key Concepts](designer-surface/central-area/json/key-concepts.md) -->
   * [HTML](designer-surface/central-area/html/readme.md)
-    * [Key Concepts](designer-surface/central-area/html/key-concepts.md)
+    <!-- * [Key Concepts](designer-surface/central-area/html/key-concepts.md) -->
   * [Actions](designer-surface/central-area/actions/readme.md)
-    * [Key Concepts](designer-surface/central-area/actions/key-concepts.md)
+    <!-- * [Key Concepts](designer-surface/central-area/actions/key-concepts.md) -->
   * [Data](designer-surface/central-area/data/readme.md)
-    * [Key Concepts](designer-surface/central-area/data/key-concepts.md)
+    <!-- * [Key Concepts](designer-surface/central-area/data/key-concepts.md) -->
   * [Schema](designer-surface/central-area/schema/readme.md)
-    * [Key Concepts](designer-surface/central-area/schema/key-concepts.md)
+    <!-- * [Key Concepts](designer-surface/central-area/schema/key-concepts.md) -->
 * [Right Dock](designer-surface/right-dock/readme.md)
   * [Properties](designer-surface/right-dock/properties/readme.md)
     * [Key Concepts](designer-surface/right-dock/properties/key-concepts.md)
