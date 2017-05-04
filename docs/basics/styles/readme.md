@@ -45,6 +45,6 @@ The following is a screen shot of the Settings tab in the designer showing `cont
 
 Save your changes and then click on the Preview button to see your styles in action. The following is a screenshot of using the above style:
 
-![Style Execution](../../assets/images/randomusers-preview.png)
+![Style Execution](../../assets/images/tutorials/flexbox.png)
 
-Refer to the [ REST API Screen Tutorial ](../../tutorials/randomuser-screen.md) for tutorial on using your own styles.
+Refer to the [ Flexbox Tutorial ](../../tutorials/flexbox-screen.md) for tutorial on using your own styles.
