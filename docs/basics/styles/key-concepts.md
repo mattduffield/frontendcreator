@@ -31,7 +31,9 @@ At any time, you can load any of the styles listed from the left dock-pane by cl
 
 ## Delete Style
 
-It is also possible to remove any style by clicking the delete ![Script Editor](../../assets/images/button-delete-black.png) icon next to the style you wish to delete in the script list. Deleting a style here will not remove the style reference in a given screen so take care when you remove a style. You will need to make sure any screen that referenced the given style is updated to a new style or the reference is removed.
+It is also possible to remove any style by clicking the delete ![Script Editor](../../assets/images/button-delete-black.png) icon next to the style you wish to delete in the script list. 
+> #### danger::
+> Deleting a script here will not remove the script reference in a given screen so take care when you remove a script. You will need to make sure any screen that referenced the given script is updated to a new script or the reference is removed.
 
 ## Referencing a Style from a screen
 
