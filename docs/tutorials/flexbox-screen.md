@@ -88,4 +88,4 @@ FOOTER | DIV | flex-row-none justify-content-end | footer content here...
 
 ![Tutorial Flexbox Preview](../assets/images/tutorials/tutorial-flexbox.png)
 
-That it! You have created your first Flexbox layout! Congratulations!
+That's it! You have created your first Flexbox layout! Congratulations!

@@ -4,8 +4,6 @@ In this tutorial, we will be creating a new *Project* so that we can add screens
 
 Let's get started.
 
-Let's get started.
-
 1) Start by clicking on *Manage Projects* from navigation menu on the left pane.
 
 ![Tutorial Project](../assets/images/tutorials/tutorial-manage-projects.png)

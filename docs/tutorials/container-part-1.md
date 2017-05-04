@@ -135,6 +135,6 @@ Let's get started.
 
   ![Tutorial Container Preview](../assets/images/tutorials/tutorial-container-preview.gif)
 
-That it! You have completed part 1! Congratulations!
+That's it! You have completed part 1! Congratulations!
 
 [ Tutorials ](tutorials/tutorials) | [ Next -> ](container-part-2)

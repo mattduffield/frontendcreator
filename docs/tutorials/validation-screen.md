@@ -125,4 +125,4 @@ function (that, V) {
 
 15) Click on the Preview tab or the Preview button and you should see something like the video above.
 
-That it! You have created your first validation form! Congratulations!
+That's it! You have created your first validation form! Congratulations!
