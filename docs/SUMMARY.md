@@ -21,7 +21,7 @@
 * [Custom Elements](basics/custom-elements/readme.md)
   <!-- * [Key Concepts](basics/custom-elements/key-concepts.md) -->
 * [Dialogs](basics/dialogs/readme.md)
-  * [Key Concepts](basics/dialogs/key-concepts.md)
+  <!-- * [Key Concepts](basics/dialogs/key-concepts.md) -->
 * [Notifications](basics/notifications/readme.md)
   <!-- * [Key Concepts](basics/notifications/key-concepts.md) -->
 * [Flexbox](basics/flexbox/readme.md)
