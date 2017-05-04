@@ -2,8 +2,7 @@
 
 In this part, we are going to create a Bootstrap Panel. These panels will be used in the third and final part of this series. Here is a screen shot of the layout we are going to build:
 
-![Tutorial Project](../assets/images/tutorials/tutorial-panel.png)
-
+![Tutorial Container 2 Designer](../assets/images/tutorials/tutorial-container2-designer.png)
 
 Let's get started.
 
@@ -38,7 +37,15 @@ Let's get started.
 </div>
 ```
 
-This one is pretty straight forward. Here is a recap of each of the elements that were added and settings. In each element we set specific classes and styles. The following is a breakdown for each element:
+This one is pretty straight forward. We are using Bootstrap classes to build our Panel.
+
+{% youtube %}
+  https://youtu.be/6m02xAGkOLc
+{% endyoutube %}
+
+Here is a recap of each of the elements that were added and settings. 
+
+Here is a recap of each of the elements that were added and settings. In each element we set specific classes and styles. The following is a breakdown for each element:
 
 ###Element Classes
 The following is a breakdown for each element on the screen with its corresponding *class* values:
@@ -62,6 +69,6 @@ DIV | DIV | panel body here...
 
 8) Click on the Preview button and you should see something like the following:
 
-![Tutorial Container Preview](../assets/images/tutorials/tutorial-panel-preview.gif)
+![Tutorial Container Preview](../assets/images/tutorials/tutorial-container2-preview.png)
 
 That it! You have completed part 2! Congratulations!
