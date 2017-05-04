@@ -35,3 +35,6 @@ As you can see, once you save, the `Preview` tab renders the contents of the cus
 **Note:** The designer does not know how to render the custom element as it treats it as pure markup. 
 
 Now, if you were to change the `welcome` text, etc. and save. You would immediately get those changes the next time you rendered your new screen.
+
+Refer to the [ Custom Element Tutorial ](../../tutorials/custom-element.md) for tutorial on working with custom elements in your screens.
+
