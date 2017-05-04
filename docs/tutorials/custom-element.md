@@ -32,6 +32,8 @@ Let's get started.
 
 12) Under the *Settings* tab, type in `fullname` under the Bindables section and hit *enter*.
 
+![Tutorial Project Dashboard](../assets/images/tutorials/tutorial-welcome-settings.png)
+
 13) Save your work.
 
 14) We are now ready to start building our layout. This will be very simple markup.
