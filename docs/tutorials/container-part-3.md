@@ -32,7 +32,10 @@ Let's get started.
 
 7) The next steps is best shown with video and audio. We will simply be dragging our two previously created components and adjusting a few minor settings. Follow the steps in the video here then come back and continue:
 
-[![IMAGE Container Tutorial - Part 3](http://img.youtube.com/vi/oFCp5eumpW4/0.jpg)](http://www.youtube.com/watch?v=oFCp5eumpW4)
+{% youtube %}
+  https://youtu.be/B6M1p2ZV0xE
+{% endyoutube %}
+
 
 8) Save you work.
 
