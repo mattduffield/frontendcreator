@@ -97,7 +97,13 @@ The best practice would be to take the style and create a new sheet in the Style
 
 Another approach, but less recommended, is by setting the the styles attribute of individual elements. This is not very flexible as you will not be able to use CSS to affect styles that have been applied at the element level.
 
---> video here <--
+We are using Flexbox to help us with the layout. We are also using a transition to make the toggling the panes nice and smooth.
+
+The HTML also uses both the [Flexbox Classes](reference/css/flexbox-classes.md) and [Layout Classes](reference/css/layout-classes.md) CSS classes to help.
+
+{% youtube %}
+  https://youtu.be/6m02xAGkOLc
+{% endyoutube %}
 
 Here is a recap of each of the elements that were added and settings. 
 
@@ -175,11 +181,13 @@ function (that, V) {
 }
 ```
 
+You will see that our *Actions* basically add and remove the `close-pane` class on either the `#leftSide` or `#rightSide` element. The rest is handled by CSS and the transition definition in the *style* definition.
+
 10) Save your work.
 
 11) Click on the *Preview* button and you should see something like the following:
 
-![Tutorial Container Preview](../assets/images/tutorials/tutorial-container-preview.gif)
+![Tutorial Container Preview](../assets/images/tutorials/tutorial-container-preview.png)
 
 That's it! You have completed part 1! Congratulations!
 
