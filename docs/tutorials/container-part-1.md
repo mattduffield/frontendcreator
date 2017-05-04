@@ -109,13 +109,13 @@ Element | Host | Class
 DIV |  | flex-column full-height
 HEADER | DIV | flex-row-none
 MAIN | DIV | flex-row-1
-SIDEBAR | MAIN | flex-row-1 min-max-width-400 margin-15
-DIV | MAIN | flex-none tab-header margin-right-10 width-40
+SIDEBAR | MAIN | flex-row-1 min-max-width-400
+DIV | MAIN | flex-none tab-header width-40
 DIV | DIV | vertical-text
 ARTICLE | MAIN | flex-row-3 align-items-center justify-content-center
-DIV | MAIN | flex-none tab-header margin-left-10 width-40
+DIV | MAIN | flex-none tab-header width-40
 DIV | DIV | vertical-text
-ASIDE | MAIN | flex-row-1 min-max-width-400 margin-15
+ASIDE | MAIN | flex-row-1 min-max-width-400
 FOOTER | DIV | flex-row-none justify-content-end
 
 ###Element Content
@@ -140,8 +140,8 @@ The following are the events on the elements:
 
 Element | Attribute | Mode | Action
 --- | --- | --- |---
-DIV | click | delegate | actions.toggleSidebar() 
-DIV | click | delegate | actions.toggleAside() 
+DIV | click | delegate | actions.toggleLeftSide() 
+DIV | click | delegate | actions.toggleRightSide() 
 
 8) Save you work.
 
@@ -150,27 +150,27 @@ DIV | click | delegate | actions.toggleAside()
 ```javascript
 function (that, V) {
 
-  function toggleSidebar() {
-      var sb = document.querySelector('#sidebar-tab');
-      if (sb && sb.classList.contains('close-tab')) {
-        sb.classList.remove('close-tab');      
-      } else {
-        sb.classList.add('close-tab');      
-      }
+  function toggleLeftSide() {
+    var sb = document.querySelector('#leftSide');
+    if (sb && sb.classList.contains('close-pane')) {
+      sb.classList.remove('close-pane');
+    } else {
+      sb.classList.add('close-pane');
     }
-   
-   function toggleAside() {
-      var sb = document.querySelector('#aside-tab');
-      if (sb && sb.classList.contains('close-tab')) {
-        sb.classList.remove('close-tab');      
-      } else {
-        sb.classList.add('close-tab');      
-      }
+  }
+
+  function toggleRightSide() {
+    var sb = document.querySelector('#rightSide');
+    if (sb && sb.classList.contains('close-pane')) {
+      sb.classList.remove('close-pane');
+    } else {
+      sb.classList.add('close-pane');
     }
-  
- return {
-    toggleSidebar: toggleSidebar,
-    toggleAside: toggleAside
+  }
+
+  return {
+    toggleLeftSide: toggleLeftSide,
+    toggleRightSide: toggleRightSide
   };
 }
 ```
