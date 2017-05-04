@@ -2,7 +2,7 @@
 
 So far, we have built two separate components. We have a container with sliding panes and we now have a panel. In this tutorial, we are going to bring it all together by using composition and build out our container now with the panels included. Here is a screen shot of the layout we are going to build:
 
-![Tutorial Project](../assets/images/tutorials/tutorial-container-panel.png)
+![Tutorial Project](../assets/images/tutorials/tutorial-container3-panel.png)
 
 
 Let's get started.
