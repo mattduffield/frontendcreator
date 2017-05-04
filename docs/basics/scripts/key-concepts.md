@@ -34,7 +34,7 @@ At any time, you can load any of the scripts listed from the left dock-pane by c
 
 It is also possible to remove any scripts by clicking the delete ![Script Editor](../../assets/images/button-delete-black.png) icon next to the script you wish to delete in the script list. 
 
-> #### danger::Please Note
+> #### danger::
 > Deleting a script here will not remove the script reference in a given screen so take care when you remove a script. You will need to make sure any screen that referenced the given script is updated to a new script or the reference is removed.
 
 ## Referencing a Script from a screen
