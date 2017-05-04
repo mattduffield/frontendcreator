@@ -68,7 +68,7 @@ Let's get started.
 
 Before we move on, notice how we are using inline styles to help us with styling this page. This is done more for seeing what the layout looks like in the designer more than anything else.
 
-The best practice would be to take the style and create a new sheet in the Style editor. Refer to the following tutorial if you would to do that. Just remember that you will not see the styles applied until you *Preview* your screen.
+The best practice would be to take the style and create a new sheet in the Style editor. Refer to the following [ Style Sheet Tutorial ](tutorials/style-sheet.md) if you would to do that. Just remember that you will not see the styles applied until you *Preview* your screen.
 
 Another approach, but less recommended, is by setting the the styles attribute of individual elements. This is not very flexible as you will not be able to use CSS to affect styles that have been applied at the element level.
 
