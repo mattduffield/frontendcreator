@@ -30,7 +30,7 @@ Let's get started.
 6) Now we are ready to start building our layout. The following video will walk you through the steps required to create our `container-host` screen using custom elements:
 
 {% youtube %}
-  https://youtu.be/B6M1p2ZV0xE
+  https://youtu.be/0D4wTgGEhF8
 {% endyoutube %}
 
 
