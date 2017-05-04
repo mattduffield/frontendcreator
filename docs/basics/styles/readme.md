@@ -37,13 +37,11 @@ It is also possible to remove any style by clicking the delete ![Script Editor](
 
 ## Referencing a Style from a screen
 
-We have built our style and now want to use. Let's walk through how we can accomplish this. First, we will create a new screen called, `style-screen`. We will not add any elements to the screen but we will go to the Settings tab on the right dock-pane and select the style from the dropdown.
-
-The following is a screen shot of the Settings tab in the designer showing `contact-manager-style` as a selected style:
+We have built our style and now want to use. When creating a new screen, it is as simple as selecting the new style from the Settings tab under the Screen Styles section. The following is a screen shot of the Settings tab in the designer showing `flexbox-style` as a selected style:
 
 ![Style Reference](../../assets/images/style-reference.png)
 
-Save your changes and then click on the Preview button to see your styles in action. The following is a screenshot of using the above style:
+After you have saved your screen and have designed the screen the way you want, you can then click on the Preview button to see your selected styles in action. The following is a screenshot of using the above style:
 
 ![Style Execution](../../assets/images/tutorials/flexbox.png)
 
