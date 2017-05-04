@@ -25,9 +25,9 @@
 * [Notifications](basics/notifications/readme.md)
   <!-- * [Key Concepts](basics/notifications/key-concepts.md) -->
 * [Flexbox](basics/flexbox/readme.md)
-  * [Key Concepts](basics/flexbox/key-concepts.md)
+  <!-- * [Key Concepts](basics/flexbox/key-concepts.md) -->
 * [Preview](basics/preview/readme.md)
-  * [Key Concepts](basics/preview/key-concepts.md)
+  <!-- * [Key Concepts](basics/preview/key-concepts.md) -->
 
 ## Designer Surface
 
@@ -64,7 +64,7 @@
   * [Settings](designer-surface/right-dock/settings/readme.md)
     * [Key Concepts](designer-surface/right-dock/settings/key-concepts.md)
   * [Preview](designer-surface/right-dock/preview/readme.md)
-    * [Key Concepts](designer-surface/right-dock/preview/key-concepts.md)
+    <!-- * [Key Concepts](designer-surface/right-dock/preview/key-concepts.md) -->
 
 ## Advanced
 
