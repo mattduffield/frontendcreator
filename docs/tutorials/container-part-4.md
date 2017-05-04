@@ -132,4 +132,4 @@ As you can see we need to `require` our other screens so that we can use them. F
 
 ![Tutorial Container Preview](../assets/images/tutorials/tutorial-container-panel-preview.gif)
 
-That's it! You have completed part 3! Congratulations!
+That's it! You have completed part 4! Congratulations!
