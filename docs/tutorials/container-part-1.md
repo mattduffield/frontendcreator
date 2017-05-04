@@ -32,36 +32,61 @@ Let's get started.
 7) Now we are ready to start building our layout. Click on the HTML tab and replace the following snippet in the editor. 
 
 ```html
-<div class="drag-container drag-item holy-grail flex-column full-height">
+<div class="drag-container drag-item holy-grail flex-column full-height">  
   <style>
-    .holy-grail header { background-color: black; color: white; }
-    .holy-grail sidebar { background-color: orange; }
-    .holy-grail article { background-color: darkgray; }
-    .holy-grail aside { background-color: orange; }
-    .holy-grail footer { background-color: black; color: white; }
-  </style>
-  <header class="drag-container drag-item flex-row-none padding-10">
-    header content here...
-  </header>
-  <main class="drag-container drag-item flex-row-1">
-    <sidebar tag="left-pane" class="flex-row-1 min-max-width-400 margin-15" id="sidebar-tab">
-      sidebar content here...
-    </sidebar>
-    <div tag="tab-header" class="flex-none tab-header margin-right-10 width-40" click.delegate="actions.toggleSidebar()">
-      <span class="vertical-text">Left tab</span>
-    </div>
+    .holy-grail header { background-color: black; color: white; padding: 15px; }
+    .holy-grail sidebar { background-color: orange; padding: 15px; }
+    .holy-grail article { background-color: darkgray; padding: 15px; }
+    .holy-grail aside { background-color: orange; padding: 15px; }
+    .holy-grail footer { background-color: black; color: white; padding: 15px; }
+    .holy-grail .toggle-bar { cursor: pointer; padding: 10px; }
+    .holy-grail .close-pane {
+      flex: .00001;
+      padding: 0;
+      overflow: hidden;
+      min-width: 0;
+      max-width: 0;
+      width: 0;
+      margin:0;
+    }
+    .close-pane+.tab-header {
+      cursor: auto;
+    }
+    #leftSide, #rightSide {
+      transition: flex 350ms linear,
+      min-width 350ms linear, 
+      max-width 350ms linear, 
+      width 350ms linear,
+      min-height 350ms linear,
+      max-height 350ms linear,
+      height 350ms linear;
+      overflow-x: auto;
+    } 
+  </style> 
+  <header class="drag-container drag-item flex-row-none">
+    header content here...  
+  </header>  
+  <main class="drag-container drag-item flex-row-1">  
+    <sidebar id="leftSide" class="flex-row-1 min-max-width-400">
+      sidebar content here...  
+    </sidebar>  
+    <div class="toggle-bar flex-none tab-header width-40" click.delegate="actions.toggleLeftSide()">  
+      <span class="vertical-text">Left tab  
+      </span>  
+    </div>  
     <article class="drag-container drag-item flex-row-3 align-items-center justify-content-center">
-      main content here...
-    </article>
-    <div tag="tab-header" class="flex-none tab-header margin-left-10 width-40" click.delegate="actions.toggleAside()">
-      <span class="vertical-text">Right tab</span>
-    </div>
-    <aside tag="right-pane" class="flex-row-1 min-max-width-400 margin-15" id="aside-tab">
-      aside content here...
-    </aside>
-  </main>
-  <footer class="drag-container drag-item flex-row-none justify-content-end padding-10">
-    footer content here...
+      main content here...  
+    </article>  
+    <div class="toggle-bar flex-none tab-header width-40" click.delegate="actions.toggleRightSide()">  
+      <span class="vertical-text">Right tab  
+      </span>  
+    </div>  
+    <aside id="rightSide" class="flex-row-1 min-max-width-400">
+      aside content here...  
+    </aside>  
+  </main>  
+  <footer class="drag-container drag-item flex-row-none justify-content-end">
+    footer content here...  
   </footer>
 </div>
 ```
@@ -152,7 +177,7 @@ function (that, V) {
 
 10) Save your work.
 
-11) Click on the Preview button and you should see something like the following:
+11) Click on the *Preview* button and you should see something like the following:
 
 ![Tutorial Container Preview](../assets/images/tutorials/tutorial-container-preview.gif)
 
