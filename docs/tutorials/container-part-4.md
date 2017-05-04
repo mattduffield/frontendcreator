@@ -2,7 +2,7 @@
 
 In the previous tutorial, we created our `container-panel` using composition. This time through, we are going to create a container that uses Custom Elements. Here is a screen shot of the layout we are going to build:
 
-![Tutorial Project](../assets/images/tutorials/tutorial-container3-panel.png)
+![Tutorial Project](../assets/images/tutorials/tutorial-container4-panel.png)
 
 
 Let's get started.
@@ -23,9 +23,9 @@ Let's get started.
 
 ![Tutorial Project New Screen](../assets/images/tutorials/tutorial-project-new-screen.png)
 
-5) Name the screen, `container-panel`. Add any description and pick any icon you wish for the screen. You can add any tags you like to the screen. You should have something that looks like the following:
+5) Name the screen, `container-host`. Add any description and pick any icon you wish for the screen. You can add any tags you like to the screen. You should have something that looks like the following:
 
-![Tutorial Panel Properties](../assets/images/tutorials/tutorial-container3-properties.png)
+![Tutorial Panel Properties](../assets/images/tutorials/tutorial-container4-properties.png)
 
 6) Now we are ready to start building our layout. The following video will walk you through the steps required to compose the screen:
 
