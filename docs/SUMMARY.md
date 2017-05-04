@@ -23,7 +23,7 @@
 * [Dialogs](basics/dialogs/readme.md)
   * [Key Concepts](basics/dialogs/key-concepts.md)
 * [Notifications](basics/notifications/readme.md)
-  * [Key Concepts](basics/notifications/key-concepts.md)
+  <!-- * [Key Concepts](basics/notifications/key-concepts.md) -->
 * [Flexbox](basics/flexbox/readme.md)
   * [Key Concepts](basics/flexbox/key-concepts.md)
 * [Preview](basics/preview/readme.md)
