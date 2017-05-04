@@ -35,13 +35,13 @@
   * [Toolbox](designer-surface/left-dock/toolbox/readme.md)
     <!-- * [Key Concepts](designer-surface/left-dock/toolbox/key-concepts.md) -->
   * [Bootstrap](designer-surface/left-dock/bootstrap/readme.md)
-    * [Key Concepts](designer-surface/left-dock/bootstrap/key-concepts.md)
+    <!-- * [Key Concepts](designer-surface/left-dock/bootstrap/key-concepts.md) -->
   * [Components](designer-surface/left-dock/components/readme.md)
-    * [Key Concepts](designer-surface/left-dock/components/key-concepts.md)
+    <!-- * [Key Concepts](designer-surface/left-dock/components/key-concepts.md) -->
   * [Entities](designer-surface/left-dock/entities/readme.md)
-    * [Key Concepts](designer-surface/left-dock/entities/key-concepts.md)
+    <!-- * [Key Concepts](designer-surface/left-dock/entities/key-concepts.md) -->
   * [DOM Tree](designer-surface/left-dock/dom-tree/readme.md)
-    * [Key Concepts](designer-surface/left-dock/dom-tree/key-concepts.md)
+    <!-- * [Key Concepts](designer-surface/left-dock/dom-tree/key-concepts.md) -->
 * [Central Area](designer-surface/central-area/readme.md)
   * [Designer](designer-surface/central-area/designer/readme.md)
     * [Key Concepts](designer-surface/central-area/designer/key-concepts.md)
