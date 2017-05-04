@@ -1,18 +1,36 @@
 # Dialog Tutorial
 
-**FrontEnd Creator** uses the aurelia-dialog plugin to provide dialogs. It has been wrapped to allow for an easy workflow. The following are the steps required to create a dialog and use it within a given screen:
+The following are the steps required to use **FrontEnd Creator** and build a `confirm-dialog` screen:
 
-## Overview
+{% youtube %}
+  https://youtu.be/yqFTcCvbQMs
+{% endyoutube %}
 
-Dialogs are treated just like screens but have slightly different behavior. Instead of responding to routes and being displayed, they respond to user interactions. You have the ability to craft the dialog as much as you like within the guidelines of the aurelia-dialog plugin.
+Let's get started.
 
-Let's take the steps to create a dialog:
+1) Start by clicking on *Manage Projects* from navigation menu on the left pane.
 
-1) Create a new Screen and call it, "confirm-dialog"
+![Tutorial Project](../assets/images/tutorials/tutorial-manage-projects.png)
 
-![Dialogs](../../assets/images/confirm-dialog-new.png)
+2) Next, click on the New button and name the project, `Tutorial Project`. Add any description and leave the rest of the properties with their default values. You can add any tags you like to the project. Your should have something that looks like the following:
 
-2) Inside the designer, on the HTML tab, replace the contents with the following:
+![Tutorial Project](../assets/images/tutorials/tutorial-project.png)
+
+3) Once you click save, will notice that the project will automatically be added to the Manage Projects table as well as the navigation menu on the left:
+
+![Tutorial Project Added](../assets/images/tutorials/tutorial-project-added.png)
+
+4) Next, click on the Tutorial Project menu item from the navigation menu and select New Screen:
+
+![Tutorial Project New Screen](../assets/images/tutorials/tutorial-project-new-screen.png)
+
+5) Name the screen, `confirm-dialog`. Add any description and pick any icon you wish for the screen. You can add any tags you like to the screen. You should have something that looks like the following:
+
+![Tutorial Project Dashboard](../assets/images/tutorials/tutorial-confirm-dialog-properties.png)
+
+6) Clicking save will navigate you to the designer.
+
+7) Inside the designer, on the HTML tab, replace the contents with the following:
 
 ```html
 <ai-dialog>
@@ -37,19 +55,30 @@ Let's take the steps to create a dialog:
 </ai-dialog>
 ```
 
-3) Save your work.
-4) Copy the Screen ID, we will use this a little later
-5) Click the `Back` button to return to the Screens view.
-6) Create a new Screen and call it, "dialog-test"
+8) Save your work
 
-![Dialogs](../../assets/images/confirm-dialog-test-new.png)
+> #### info::
+> Copy the Screen ID, we will use this a little later
 
-7) Drag a button onto the designer set its contents to: "Confirm"
-8) Add a `click.delegate` to the button pointing to, "actions.confirm($event)". Your screen should look like the following:
+9) Okay, we have our dialog ready, now let's create another screen to test it
+
+10) Next, click on the Tutorial Project menu item from the navigation menu and select New Screen:
+
+![Tutorial Project New Screen](../assets/images/tutorials/tutorial-project-new-screen.png)
+
+11) Name the screen, `dialog-test`. Add any description and pick any icon you wish for the screen. You can add any tags you like to the screen. You should have something that looks like the following:
+
+![Tutorial Project Dashboard](../assets/images/tutorials/tutorial-confirm-dialog-test-properties.png)
+
+12) Clicking save will navigate you to the designer.
+
+13) Drag a button onto the designer set its contents to: "Confirm"
+
+14) Add a `click.delegate` to the button pointing to, "actions.confirm($event)". Your screen should look like the following:
 
 ![Dialogs](../../assets/images/confirm-dialog-test-button.png)
 
-9) In the `Actions` tab, make sure your code looks like the following:
+15) In the `Actions` tab, make sure your code looks like the following:
 
 ```javascript
 function (that, V) {
@@ -99,18 +128,23 @@ Looking at the above code, you can see that we are loading the dialog when our v
 
 Finally, we show the dialog and then if it was an actionable response, we display a toast message. In our case, actionable was calling "ok" on the dialog controller passing it `true`. Again, you can pass back any value or object you like.
 
-10) Remember to paste the Screen ID where it says, "<put screen id here...>"
-11) Save your work.
-12) You should now be able to test your dialog. Click on the `Preview` tab and click the `Confirm` button.
-13) You should see something like the following:
+16) Remember to paste the Screen ID where it says, "<put screen id here...>"
+
+17) Save your work.
+
+18) You should now be able to test your dialog. Click on the `Preview` tab and click the `Confirm` button.
+
+19) You should see something like the following:
 
 ![Dialogs](../../assets/images/confirm-dialog-test-preview.png)
 
-14) If you click, "Do it!", then you should also see the following:
+20) If you click, "Do it!", then you should also see the following:
 
 ![Dialogs](../../assets/images/confirm-dialog-test-preview-response.png)
 
-15) Otherwise, you will not see anything as the dialog did not pass back a response.
+21) Otherwise, you will not see anything as the dialog did not pass back a response.
+
+Congratulations! You have completed this tutorial!
 
 > #### primary::
-> This covers using dialogs. If you are interested to learn more, feel free to take a look at the [ Aurelia Dialog](https://github.com/aurelia/dialog) documentation.
+> Please refer to the [ Aurelia Dialog](https://github.com/aurelia/dialog) documentation to learn more about using dialogs.
