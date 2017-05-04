@@ -2,7 +2,8 @@
   "root": "./docs",
   "plugins": [ 
     "collapsible-chapters",
-    "youtube"
+    "youtube",
+    "bootstrap-callout" 
   ],
   "pluginsConfig": {
     "collapsible-chapters": {}
