@@ -60,6 +60,10 @@ Let's get started.
 > #### info::
 > Copy the Screen ID, we will use this a little later
 
+Your screen should look like the following:
+
+![Dialogs](../assets/images/tutorial-confirm-dialog-designer.png)
+
 9) Okay, we have our dialog ready, now let's create another screen to test it
 
 10) Next, click on the Tutorial Project menu item from the navigation menu and select New Screen:
