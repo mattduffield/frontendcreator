@@ -43,6 +43,6 @@ We have built our style and now want to use. When creating a new screen, it is a
 
 After you have saved your screen and have designed the screen the way you want, you can then click on the Preview button to see your selected styles in action. The following is a screenshot of using the above style:
 
-![Style Execution](../../assets/images/tutorials/flexbox.png)
+![Style Execution](../../assets/images/tutorials/tutorial-flexbox.png)
 
 Refer to the [ Flexbox Tutorial ](../../tutorials/flexbox-screen.md) for tutorial on using your own styles.
