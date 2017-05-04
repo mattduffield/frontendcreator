@@ -21,17 +21,17 @@ Let's now look at what the style looks like. The following is a screen shot of t
 
 ![Style Editor](../../assets/images/style-editor.png)
 
-As you can see, we are simply creating standard CSS rules. When we save our script with the header's save ![Script Editor](../../assets/images/button-save.png) icon it will automatically be added to the Styles list on the left dock-pane as shown below:
+As you can see, we are simply creating standard CSS rules. When we save our script with the header's save ![Style Editor](../../assets/images/button-save.png) icon it will automatically be added to the Styles list on the left dock-pane as shown below:
 
 ![Styles List](../../assets/images/styles-list.png)
 
 ## Edit Style
 
-At any time, you can load any of the styles listed from the left dock-pane by clicking on the open folder ![Script Editor](../../assets/images/button-folder-open.png) icon. Be sure to save any of your changes prior to loading a new style or they will be lost.
+At any time, you can load any of the styles listed from the left dock-pane by clicking on the open folder ![Style Edit](../../assets/images/button-folder-open.png) icon. Be sure to save any of your changes prior to loading a new style or they will be lost.
 
 ## Delete Style
 
-It is also possible to remove any style by clicking the delete ![Script Editor](../../assets/images/button-delete-black.png) icon next to the style you wish to delete in the script list. 
+It is also possible to remove any style by clicking the delete ![Style Delete](../../assets/images/button-delete-black.png) icon next to the style you wish to delete in the script list. 
 > #### danger::
 > Deleting a script here will not remove the script reference in a given screen so take care when you remove a script. You will need to make sure any screen that referenced the given script is updated to a new script or the reference is removed.
 
