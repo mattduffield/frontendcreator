@@ -27,15 +27,16 @@ Let's get started.
 
 ![Tutorial Panel Properties](../assets/images/tutorials/tutorial-container3-properties.png)
 
-6) Now we are ready to start building our layout. Click on the HTML tab and replace the following snippet in the editor. 
-
-
-7) The next steps is best shown with video and audio. We will simply be dragging our two previously created components and adjusting a few minor settings. Follow the steps in the video here then come back and continue:
+6) Now we are ready to start building our layout. The following video will walk you through the steps required to compose the screen:
 
 {% youtube %}
   https://youtu.be/B6M1p2ZV0xE
 {% endyoutube %}
 
+
+We will simply be dragged the `container` and `panel` components onto the designer. We also adjusted some content as well as removed some `background-color` styles.
+
+**Note:** Although, this is powerful and allows you to compose your screens together quickly, it lacks the ability to reference the `container` and `panel` as custom elements. In the next tutorial, we will look at an alternative route to building this out using custom elements.
 
 8) Save you work.
 
