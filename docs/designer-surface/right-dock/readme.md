@@ -7,4 +7,6 @@ The right dock pane contains the following tabs:
 
 You can collapse the pane so that you have more surface to work on as well. The following animation shows how you can toggle the right dock pane:
 
-![Designer right dock pane](../../assets/images/designer-right-dock-pane.gif)
+![Designer right dock pane](../../assets/images/designer-right-pane.gif)
+
+You can toggle the right pane by using the keyboard mnemonic `Cmd|Ctrl + F3`.
