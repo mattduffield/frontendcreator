@@ -24,9 +24,11 @@ It is possible to log out at any time after you have authenticated. Every screen
 ![Logout dialog](../assets/images/user-settings-dialog.png)
 
 
-It is from this dialog that you can log out. You will also be able to verify the database and launch help documentation.
+It is from this dialog that you can log out, verify the database, launch help documenation, or launch a Feedback dialog. It is here that you can update your user avatar by clicking on the top right corner of the dialog. 
 
-You will also see a Feedback link. If you click on the link you will be presented with the following dialog:
+Refer to [ User Avatar ](./user-avatar.md) for more information on setting your avatar.
+
+Clicking on the Feedback link you will be presented with the following dialog:
 
 ![Feedback dialog](../assets/images/feedback-dialog.png)
 
