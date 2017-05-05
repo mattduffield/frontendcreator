@@ -22,6 +22,12 @@ It should launch the `User Settings Dialog` as shown below:
 
 ![Avatar Set](../assets/images/avatar-set.png)
 
+For the example above, we used the following URL:
+
+```javascript
+https://s-media-cache-ak0.pinimg.com/236x/7c/c7/a6/7cc7a630624d20f7797cb4c8e93c09c1.jpg
+```
+
 4) Finally, click the `Submit` button to save your avatar to your user profile.
 
 ![Avatar Set](../assets/images/new-avatar.png)

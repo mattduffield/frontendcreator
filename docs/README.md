@@ -2,7 +2,8 @@
 
 Building applications with Aurelia has never been so much fun and the **FrontEnd Creator** makes it even more enjoyable. The tool allows you to group your applications into projects. Within each project you have multiple screens. You are able to drag and drop standard HTML elements as well as custom elements onto the designer surface. You can then configure properties of a selected element using the dynamic property grid. 
 
-![Designer](assets/images/designer-home.png)
+<!-- ![Designer](assets/images/designer-home.png) -->
+![Drag and Drop Demo](assets/images/entity-drag-drop.gif)
 
 Everything is saved as JSON and you have the ability to live preview your changes immediately as well as share links for a given screen with co-workers or clients so that they can interact with your design.
 
@@ -10,11 +11,11 @@ Everything is saved as JSON and you have the ability to live preview your change
 
 The following animation shows how little work it takes to rapidly create a screen and preview it live using **FrontEnd Creator**:
 
-![Designer Animation](assets/images/frontendcreator.gif)
+{% youtube %}
+  https://youtu.be/dNkkJqlopDY
+{% endyoutube %}
 
-You also have the ability to edit the HTML directly and see the changes reflected in the designer tab. Finally, you have the ability to preview your changes every time you save your work or by launching a separate tab and viewing  your changes alone.
-
-![Designer Animation](assets/images/frontendcreator-html.gif)
+As you can see, you have the ability to edit the HTML directly and see the changes reflected in the designer tab. You can either preview directly in the editor or launch a new tab for preview.
 
 ## Extensibility
 
