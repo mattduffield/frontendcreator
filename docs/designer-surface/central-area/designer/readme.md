@@ -4,7 +4,7 @@ The designer tab is used to drag and drop elements from the Toolbox and also con
 
 The following is a screen shot of the designer surface with the properties tab:
 
-![Designer surface](../../../assets/images/designer-surface2.png)
+![Designer surface](../../../assets/images/designer-surface-properties.png)
 
 #### Up/Down Buttons
 
@@ -14,6 +14,9 @@ The following animation demonstrates this:
 
 ![Designer up](../../../assets/images/designer-up-down.gif)
 
+Once an element is selected, it is possible to move it up or down using keyboard mnemonics. You can also use the keyboard mnemonic `Cmd|Ctrl + Up` or  `Cmd|Ctrl + Down` to move an element up or down respectively.
+
+
 #### Clone/Delete Buttons
 
 The Clone/Delete buttons give you the ability to clone/delete the selected element.
@@ -21,3 +24,5 @@ The Clone/Delete buttons give you the ability to clone/delete the selected eleme
 The following animation demonstrates this:
 
 ![Designer up](../../../assets/images/designer-clone-delete.gif)
+
+Once an element is selected, it is possible to clone or delete it using keyboard mnemonics. Use the keyboard mnemonic `Cmd|Ctrl + Plus` or  `Cmd|Ctrl + Minus` to clone or delete an element respectively.
