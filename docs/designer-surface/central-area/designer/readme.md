@@ -6,6 +6,15 @@ The following is a screen shot of the designer surface with the properties tab:
 
 ![Designer surface](../../../assets/images/designer-surface-properties.png)
 
+#### Collapse Panes
+
+All of the panes in the designer can take up valuable realestate. The following animation will show you how you can get back your space:
+
+![Designer up](../../../assets/images/designer-collapse-panes.gif)
+
+Use the keyboard mnemonic `Cmd|Ctrl + F1` to toggle the Navigation Menu states. Use the keyboard mnemonic `Cmd|Ctrl + F2` or `Cmd|Ctrl + F3` to toggle the left and right panes respectively. 
+
+
 #### Up/Down Buttons
 
 The Up/Down buttons give you the ability to move the selected element up/down within the same parent container.
