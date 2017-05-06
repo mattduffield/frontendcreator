@@ -1,5 +1,23 @@
 # 0.9.1x Release Notes
 
+### 0.9.15
+
+- All tutorials and documents have been updated to the latest UI. The tutorials have videos so that you can pause and continue
+- Saving in the designer triggers the Preview tab to refresh
+- Dialogs now can use the `classBuilder` function to support dependency injection of referenced Scripts
+- Fixed issue with Entity Builder using incorrect input types for Default Element 
+- Entity Builder when generating radio buttons in the designer did not create unique names when used under collections
+- Entity Builder when generating radio buttons uses camel case to proper case for labels
+- Fixed issue with Dynamic Element not setting the Schema and validations were failing
+- Added date validation to validation engine
+- Fixed issue with Schema Editor not parsing correctly
+- Fixed issue with Validation Summary missing CSS styles
+- Fixed HTML formatter when clicking on the HTML tab in the designer. The formatter now tries to put open and closed tags on their own line with the proper indentation
+- Fixed HTML formatter when dealing with HTML comments. It no longer tries to indent for the tag
+- Fixed issue with vertical sliders in designer when multiple aside and sidebar elements where on the same surface
+- Fixed issue with validator not updating errors when only one of many errors was corrected on a given form
+- Added application version number to the User Settings dialog
+
 ### 0.9.14
 
 - Added Template Builder for creating reusable templates. It has the ability to visualize the templates with dummy data as well as setting the number of records of data to test with.
