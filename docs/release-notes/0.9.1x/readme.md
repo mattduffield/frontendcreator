@@ -3,6 +3,7 @@
 ### 0.9.15
 
 - All tutorials and documents have been updated to the latest UI. The tutorials have videos so that you can pause and continue
+- Application now uses Auth0 for authentication
 - Saving in the designer triggers the Preview tab to refresh
 - Dialogs now can use the `classBuilder` function to support dependency injection of referenced Scripts
 - Fixed issue with Entity Builder using incorrect input types for Default Element 
