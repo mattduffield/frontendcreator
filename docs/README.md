@@ -25,11 +25,11 @@ The **FrontEnd Creator** has been built with extensibility in mind from the grou
 
 ## Next steps
 
-Currently, **FrontEnd Creator** is in a *closed alpha*. The closed alpha is now full. We will open it up again when we move to beta.
+Currently, **FrontEnd Creator** is in a *closed beta*. Please send an email to [Support@frontendcreator.com](mailto:support@frontendcreator.com)
 
 Space is limited but you will have full access to the application.
 
-We are striving to make this a first class solution for building web applications.
+Our goal is to make this a first class solution for building web applications!
 
 [ www.frontendcreator.com ](http://www.frontendcreator.com)
 
