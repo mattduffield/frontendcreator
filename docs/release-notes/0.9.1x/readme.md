@@ -1,5 +1,14 @@
 # 0.9.1x Release Notes
 
+### 0.9.16
+
+- Created new Markdown custom element. It will be used for all documentation. A new Markdown editor will be created to allow you to manage your documentation as well as export the markdown or HTML
+- Added filter capability to IconDropdown custom element to make it easier to find icons
+- Added ListView and ListViewItem custom element to make allow for multiple views of a given set of data
+- Fixed bug with the Bootstrap filter in the designer
+- Toolbox, Bootstrap, Components now use the ListView custom element to provide different sizing in the designer
+- Enhanced the Navigation Menu on the left to collapse whenever you click outside of the Navigation Menu area
+
 ### 0.9.15
 
 - All tutorials and documents have been updated to the latest UI. The tutorials have videos so that you can pause and continue
