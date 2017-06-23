@@ -1,5 +1,12 @@
 # 0.9.1x Release Notes
 
+### 0.9.17
+- Added a "Settings" menu item which contains all advanced items
+- Both levels of the menu system collapse properly now
+- Auth0 security/login now supports most recently used route. This means after a timeout, it will redirect you to the last recently used route
+- Issue #12 has been corrected
+- Issue #5 has been corrected
+
 ### 0.9.16
 
 - Created new Markdown custom element. It will be used for all documentation. A new Markdown editor will be created to allow you to manage your documentation as well as export the markdown or HTML
