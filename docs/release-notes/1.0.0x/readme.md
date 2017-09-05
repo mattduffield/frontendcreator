@@ -1,5 +1,60 @@
 ## 1.0.0.x Versions
 
+### 1.0.0.5-beta
+- Added Sign up link to Auth0
+- Upgraded to the latest version of Auth0 API
+- Upgraded to PushState
+- Fixed file extension MIME type evaluation to be case insensitive. (Thanks @johntom for finding this!)
+- Added support for Gravatar API. It now findsyour gravatar just like Auth0
+- Adding new files now remembers the location you were for the previous file
+- Clicking on a folder will automatically provide the file path so that it is easier to save the file in the correct location
+- Added ability to add new file from project navigation panel
+- Fixed issue when switching between Designer tab and HTML tab and the Editor would become hidden
+- Turned on Code Folding as a default setting for Editor
+- Added a close button to the Preview pane. It now remembers where it was so that when you turn on preview, it will return to the same location. (Thanks @jawa-the-hutt for the suggestion!)
+- Added a project-manifest.json to all new projects
+- Updated the Manage Linked Files workflow
+- Saving any file that is linked now saves all reference linked files
+- Deleting any file that is a source for reference linked files now shows a dialog with all of the files in question
+- Managed Linked Files can now add/remove links via a secondary dialog
+- Added ability to edit markdown files and Preview
+- Markdown Preview allows for multiple styles for your code snippets
+- Markdown Preview supports images
+- Markdown Preview supports YouTube and Vimeo videos
+- New sample application Contact Manager
+- All screens now support keyboard mnemonics. The mnemonics are consistent and the same across all screens:
+  **Projects Panel**
+  - Ctrl|Cmd + Dash - Add New Project
+  - Ctrl|Cmd + Equal Sign - Add New File 
+  - Ctrl|Cmd + Forward Slash - Clone selected files
+  - Ctrl|Cmd + Delete|Backspace - Remove selected files
+  - Ctrl|Cmd + Z - Configure Router (Only on a selected .js file)
+  - Ctrl|Cmd + M - Manage External Resources (Only on a selected index.html file)
+  - Ctrl|Cmd + R - Refresh
+  - Ctrl|Cmd + E - Toggle Tree Expansion 
+  - Ctrl|Cmd + D - Download selected files
+  **Project Panel with Editor (file loaded)**
+  - Ctrl|Cmd + Equal Sign - Add New File 
+  - Ctrl|Cmd + S - Save
+  - Ctrl|Cmd + Shift + S - Save As
+  - Ctrl|Cmd + E - Toggle Tree Expansion 
+  - Ctrl|Cmd + Shift + 6 - Toggle Preview
+  - Ctrl|Cmd + Shift + 7 - Preview In Tab
+  **Project Panel with Designer (.html file loaded)**
+  - Ctrl|Cmd + Shift + 1 - Show Toolbox
+  - Ctrl|Cmd + Shift + 2 - Show Custom Elements
+  - Ctrl|Cmd + Shift + 3 - Show Bootstrap
+  - Ctrl|Cmd + Shift + 4 - Show Entities
+  - Ctrl|Cmd + Shift + 5 - Toggle DOM Tree Visibility
+  - Ctrl|Cmd + Shift + 6 - Toggle Preview
+  - Ctrl|Cmd + Shift + 7 - Preview In Tab
+  - Ctrl|Cmd + Up Arrow - Move selected element up
+  - Ctrl|Cmd + Down Arrow - Move selected element down
+  - Ctrl|Cmd + Forward Slash - Clone selected element
+  - Ctrl|Cmd + Delete|Backspace - Remove selected element
+  - Ctrl|Cmd + S - Save
+
+
 ### 1.0.0.4-beta
 - Renaming a file (Ctrl|Cmd + Shift + S) had the wrong file path. It has been corrected to use '/'
 - Saving a file made the preview pane hidden but the area was still visible. It has been corrected to no longer hide the preview pane unless it is a new file
