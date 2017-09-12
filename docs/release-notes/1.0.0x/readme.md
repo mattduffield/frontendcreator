@@ -1,5 +1,14 @@
 ## 1.0.0.x Versions
 
+### 1.0.0.6-beta
+- Added ability to clone projects from Market Place
+- Added ability to export file(s) from Market Place
+- Added Syncfusion sample project to Market Place
+- Added KendoUI sample project to Market Place
+- Added Contact Manager sample project to Market Place
+- Added tabs for each open file
+- Fixed context menu from display when not over an item
+- Fixed linked files recursive bug when adding new files
 ### 1.0.0.5-beta
 - Added Sign up link to Auth0
 - Upgraded to the latest version of Auth0 API
