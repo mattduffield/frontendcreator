@@ -1,5 +1,16 @@
 ## 1.0.0.x Versions
 
+### 1.0.0.7-beta
+- Added ability to commit to GitHub
+- Added ability to commit to Bitbucket
+- Added ability to provide your own commit comment
+- GitHub/Bitbucket repo is created using the same name as your project
+- Added ability to select default source control repository (GitHub or Bitbucket)
+- Added ability to choose what protocol to use (HTTP or HTTPS) when previewing your app
+- Added ability to choose how you wish to navigate between files (Auto-save or Prompt)
+- Fixed issue when selecting an already opened tab from the tree to highlight it properly
+- Fixed issue when multiple tabs were open they always reflected the name of the currently opened record
+
 ### 1.0.0.6-beta
 - Added ability to clone projects from Market Place
 - Added ability to export file(s) from Market Place
@@ -9,6 +20,7 @@
 - Added tabs for each open file
 - Fixed context menu from display when not over an item
 - Fixed linked files recursive bug when adding new files
+
 ### 1.0.0.5-beta
 - Added Sign up link to Auth0
 - Upgraded to the latest version of Auth0 API
