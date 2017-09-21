@@ -5,17 +5,24 @@ The following are the steps to login and start using the application.
 ## User Account
 In order to use the application, you will need an account. Every user will have a profile associated with it that will determine your permissions within the application. The same security infrastructure that is in place in the application is available for the applications that you create.
 
+## Sign Up
+If you don't have an account, don't worry, you can sign up here. Click on the **Sign Up** tab from the login dialog and fill out the information.
+
+![Sign Up](../assets/images/sign-up.png)
+
+Once you have filled out all of the information, it can take a little bit for your account to be provisioned. You will receive an email once your account is ready to use.
+
 ## Logging In
-You will need a username and password. Please contact <support@frontendcreator.com> to request a username and password. 
+You will need a username and password. 
 
 ![Login screen](../assets/images/login.png)
 
-If you don't have a username and password, you can request one by clicking on the register link on the login screen.
+If you don't have a username and password, you can request one by clicking on the **Sign Up** tab on the dialog.
 
-## Advanced
+<!-- ## Advanced
 If you have signed up for multiple tiers, you will also be prompted with a dialog asking you which database you wish to select for your work. By default, all users will share the same database. 
 
-![Database selector](../assets/images/database-selector.png)
+![Database selector](../assets/images/database-selector.png) -->
 
 ## Logging out
 
@@ -24,12 +31,29 @@ It is possible to log out at any time after you have authenticated. Every screen
 ![Logout dialog](../assets/images/user-settings-dialog.png)
 
 
-It is from this dialog that you can log out, verify the database, launch help documenation, or launch a Feedback dialog. It is here that you can update your user avatar by clicking on the top right corner of the dialog. 
+It is from this dialog that you can log out, verify the database, launch help documenation, launch a Feedback dialog, or launch the Application Settings dialog. <!-- It is here that you can update your user avatar by clicking on the top right corner of the dialog. --> 
 
-Refer to [ User Avatar ](./user-avatar.md) for more information on setting your avatar.
+<!-- Refer to [ User Avatar ](./user-avatar.md) for more information on setting your avatar. -->
 
-Clicking on the Feedback link you will be presented with the following dialog:
+### Feedback
+
+Clicking on the **Feedback** link you will be presented with the following dialog:
 
 ![Feedback dialog](../assets/images/feedback-dialog.png)
 
-You can determine what type of feedback as well as a description. Clicking the Submit button will persist the information to the database.
+You can determine what type of feedback as well as a description. Clicking the **Submit** button will persist the information to the database.
+
+### Application Settings
+
+Clicking on the **Application Settings** link you will be presented with the following dialog:
+
+![Application Settings dialog](../assets/images/application-settings-dialog.png)
+
+In this dialog, you are able to configure the following:
+
+- Preview Protocol - this allows you to preview your project using HTTP or HTTPS
+- Navigation Behavior - this allows you to allow the application to auto-save when navigating away from a dirty file or prompt
+- Source Control Repository - this allows you to provide credentials currently for GitHub and Bitbucket
+
+Once you have made your changes, you can click the **Submit** button to persist the information to the database.
+
