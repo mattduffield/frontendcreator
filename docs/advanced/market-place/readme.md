@@ -1,77 +1,31 @@
 # Market Place
 
-The Market Place is meant to allow developers to share and explore content uploaded by other developers. 
+The Market Place is meant to allow developers to share and explore content uploaded by other developers. You are able to preview what is on the Market Place without even loading a file.
 
-![Market Place](../../assets/images/market-place.png)
+![Market Place](../../assets/images/market-place/market-place-preview.png)
 
-When you first go to the Market Place, you are presented with an Assets panel with a search box and a preview panel.
+All files in the Market Place are opened read-only. This gives you a chance to look at the files but not make any changes.
 
-![Market Place](../../assets/images/market-place-initial.png)
+![Market Place Readonly](../../assets/images/market-place/market-place-read-only.png)
 
-You can begin exploring the Market Place by first understanding that there are four different types of assets available: 
+## Cloning a Project
 
-* screen - refers to screens created using the designer. Any referenced scripts, styles, or language will be bundled when downloaded
-* script - refers to scripts created using the Scripts editor
-* style - refers to styles created using the Style editor
-* entity - refers to the entities created using the Entity Builder
-* language - refers to the language mappings created using the Multilingual Builder
+When you are ready to bring a project from the Market Place into your own projects, simply right-click on the project folder and cick on the **Clone Project** menu item.
 
-When you perform a search and see some results, you will be presented some key information.
+![Market Place Clone](../../assets/images/market-place/market-place-clone.png)
 
-* All assets will have an icon in the top left corner to identify the type of asset
-* All assets will have an avatar that will provide attribution to who created the asset. This will be fleshed out further in future releases
-* All assets have a `star` icon that you can click on to up the number of stars
-* All assets have a `clone` icon with number to identify how many times the asset has been downloaded
-* All assets have a `download` icon that a user can click on to initiate a download
-* All assets have a `preview` icon that a user can click to preview the asset
+You will be prompted to provide a name to be used in your projects folder. In the screen shot below, we are providing the same name as the one from the Market Place.
 
-You can search for each of these by its type as well as by tags. You have the ability to provide tags to items that you upload to the Market Place.
+![Market Place Clone Name](../../assets/images/market-place/market-place-clone-name.png)
 
-The following is a screenshot of searching using the `screen` keyword:
+After you hit submit, the project will be cloned and you will see a toast notification stating so. Click on the **Projects** menu and you should now see your cloned project. The following is an example of loading a file and previewing the project:
 
-![Market Place](../../assets/images/market-place-screen-search.png)
+![Market Place Project Cloned](../../assets/images/market-place/market-place-project-cloned.png)
 
-You can click on the eye icon to preview any screen.
+## Exporting a Project
 
-If you type in `script` and search, you will see an output similar to the following: 
+If you would like to export a Market Place project and host locally, simply right-click on the project folder and cick on the **Export** menu item.
 
-![Market Place](../../assets/images/market-place-script-search.png)
+![Market Place Export](../../assets/images/market-place/market-place-clone.png)
 
-Next, type in `style` and search, you should see something like the following:
-
-![Market Place](../../assets/images/market-place-style-search.png)
-
-> #### danger::
-> It is possible to upload the same thing multiple times so be careful.
-
-If you type in `entity` and search, you should see something like the following:
-
-![Market Place](../../assets/images/market-place-entity-search.png)
-
-Finally, if you search on `language`, you will something like the following:
-
-![Market Place](../../assets/images/market-place-language-search.png)
-
-> #### danger::
-> There is no easy way to update an asset uploaded to the Market Place. It will be important to allow for updating your assets as well as managing tags and other settings.
-
-Let's now look at what happens when we attempt to download an asset. We will download the `randomusers-screen`. When you attempt to download an asset, it will want you to provide an existing Project. For the following example, we have set up a `Downloads` project. Consider the following screenshot:
-
-![Market Place](../../assets/images/market-place-select-project.png)
-
-Here, you can download to any project you like. Click the Save button to begin the download. You will see several messages indicating the process. Remember that if it is a screen and it has references to scripts, styles, or a language mapping, those assets will also be downloaded so that the screen will function properly locally to your project.
-
-The following is a screenshot of the messages you will see when downloading a screen:
-
-![Market Place](../../assets/images/market-place-download-messages.png)
-
-Let's now click the Back button and then go into the project you selected, we will go into the Downloads project. You should now see the `randomusers-screen`. 
-
-![Market Place](../../assets/images/market-place-downloaded-screen.png)
-
-You can now launch the screen and begin editing or modifying it in the designer as a local copy. 
-
-![Market Place](../../assets/images/market-place-designer.png)
-
-
-Hopefully, you see how easy it is to use the Market Place. This is just the beginning and we want to make this feature as polished as possible. We also want to allow for accessing the Market Place publically but only authenticated users would be able to download and clone an assets. You would still be able to preview any asset though.
+After several seconds, you will get a ZIP file containing all of the files that are part of the project. Once you extract the contents of the ZIP file into a location of your choice, you can then host a web server over that location and test locally. 
