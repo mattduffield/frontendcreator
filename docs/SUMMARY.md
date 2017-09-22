@@ -10,6 +10,10 @@
 * [Navigation Menu](basics/navigation-menu/readme.md)
 * [Projects](basics/projects/readme.md)
 * [Preview](basics/preview/readme.md)
+* [Entities](basics/entities/readme.md)
+* [Translations](basics/translations/readme.md)
+* [Templates](basics/templates/readme.md)
+* [Market Place](basics/market-place/readme.md)
 * [Notifications](basics/notifications/readme.md)
 <!-- * [User Avatar](basics/user-avatar.md) -->
   <!-- * [Key Concepts](basics/navigation-menu/key-concepts.md) -->
@@ -73,18 +77,10 @@
   * [Advanced Concepts](advanced/validation/advanced-concepts.md)
 * [Composition](advanced/composition/readme.md)
   <!-- * [Key Concepts](advanced/composition/key-concepts.md) -->
-* [Translation Builder](advanced/translation-builder/readme.md)
-  <!-- * [Key Concepts](advanced/translation-builder/key-concepts.md) -->
-* [Entity Builder](advanced/entity-builder/readme.md)
-  <!-- * [Key Concepts](advanced/entity-builder/key-concepts.md) -->
-* [Template Builder](advanced/template-builder/readme.md)
-  <!-- * [Key Concepts](advanced/template-builder/key-concepts.md) -->
 * [Navigation Builder](advanced/navigation-builder/readme.md)
   <!-- * [Key Concepts](advanced/navigation-builder/key-concepts.md) -->
 * [Application Export](advanced/application-export/readme.md)
   <!-- * [Key Concepts](advanced/application-export/key-concepts.md) -->
-* [Market Place](advanced/market-place/readme.md)
-  <!-- * [Key Concepts](advanced/market-place/key-concepts.md) -->
 
 ## Tutorials
 
