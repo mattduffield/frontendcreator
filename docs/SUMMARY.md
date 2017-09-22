@@ -14,7 +14,7 @@
   <!-- * [Key Concepts](basics/styles/key-concepts.md) -->
 <!-- * [Scripts](basics/scripts/readme.md) -->
   <!-- * [Key Concepts](basics/scripts/key-concepts.md) -->
-* [Manage Projects](basics/projects/readme.md)
+* [Projects](basics/projects/readme.md)
   <!-- * [Key Concepts](basics/projects/key-concepts.md) -->
 * [Screens](basics/screens/readme.md)
   <!-- * [Key Concepts](basics/screens/key-concepts.md) -->
