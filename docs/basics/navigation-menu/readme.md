@@ -8,6 +8,10 @@ This menu contains all of the top-level navigation actions. The menu also contai
 
 Clicking on each individual menu item will load any content created already available. The following screen shots display what your screen would look like if you had just signed up without any content.
 
+You can click on the logo in the top of the menu to toggle the **Navigation Panel**. The panel displays context sensitive information depending on which menu item you have clicked.
+
+At the bottom of the menu, you can click on the forward|backward arrows to open or close the **Navigation Panel** as well.
+
 ## Projects
 
 The following is a screen shot after the **Projects** menu has been clicked:
