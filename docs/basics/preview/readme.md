@@ -8,27 +8,27 @@ The following are steps required to preview a project inline:
 
 1. Click on the `contact-manager` folder or whatever folder you have to expand it.
 
-![Preview screen](../../assets/images/projects/preview/capture2.png)
+  ![Preview screen](../../assets/images/projects/preview/capture2.png)
 
 2. Click on the `src` folder to expand it.
 
-![Preview screen](../../assets/images/projects/preview/capture3.png)
+  ![Preview screen](../../assets/images/projects/preview/capture3.png)
 
 3. Click on the `app.html` file to load it.
 
-![Preview screen](../../assets/images/projects/preview/capture4.png)
+  ![Preview screen](../../assets/images/projects/preview/capture4.png)
 
 4. Click on the button with the `eye` icon to Preview your project.
 
-![Preview screen](../../assets/images/projects/preview/capture5.png)
+  ![Preview screen](../../assets/images/projects/preview/capture5.png)
 
 5. Click on the button with the `eye` icon to toggle the Preview.
 
-![Preview screen](../../assets/images/projects/preview/capture6.png)
+  ![Preview screen](../../assets/images/projects/preview/capture6.png)
 
 6. Click on the button with the `eye` icon one last time to hide the Preview. You can also click on the blue `X` in the top-right corner of the preview to hide the preview.
 
-![Preview screen](../../assets/images/projects/preview/capture4.png)
+  ![Preview screen](../../assets/images/projects/preview/capture4.png)
 
 These screens allow you to preview exactly what your users would see.
 
@@ -38,19 +38,19 @@ The following are steps required to preview a project inline:
 
 1. Click on the `contact-manager` folder or whatever folder you have to expand it.
 
-![Preview screen](../../assets/images/projects/preview/capture2.png)
+  ![Preview screen](../../assets/images/projects/preview/capture2.png)
 
 2. Click on the `src` folder to expand it.
 
-![Preview screen](../../assets/images/projects/preview/capture3.png)
+  ![Preview screen](../../assets/images/projects/preview/capture3.png)
 
 3. Click on the `app.html` file to load it.
 
-![Preview screen](../../assets/images/projects/preview/capture4.png)
+  ![Preview screen](../../assets/images/projects/preview/capture4.png)
 
 4. Click on the button with the `play` icon to Preview your project in a separate tab.
 
-![Preview screen](../../assets/images/projects/preview/capture7.png)
+  ![Preview screen](../../assets/images/projects/preview/capture7.png)
 
 ## Sharing Links
 
