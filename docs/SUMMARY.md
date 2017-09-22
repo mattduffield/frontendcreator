@@ -16,11 +16,11 @@
   <!-- * [Key Concepts](basics/scripts/key-concepts.md) -->
 * [Projects](basics/projects/readme.md)
   <!-- * [Key Concepts](basics/projects/key-concepts.md) -->
-* [Screens](basics/screens/readme.md)
+<!-- * [Screens](basics/screens/readme.md) -->
   <!-- * [Key Concepts](basics/screens/key-concepts.md) -->
-* [Custom Elements](basics/custom-elements/readme.md)
+<!-- * [Custom Elements](basics/custom-elements/readme.md) -->
   <!-- * [Key Concepts](basics/custom-elements/key-concepts.md) -->
-* [Dialogs](basics/dialogs/readme.md)
+<!-- * [Dialogs](basics/dialogs/readme.md) -->
   <!-- * [Key Concepts](basics/dialogs/key-concepts.md) -->
 * [Notifications](basics/notifications/readme.md)
   <!-- * [Key Concepts](basics/notifications/key-concepts.md) -->
