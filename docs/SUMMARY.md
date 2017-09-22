@@ -11,6 +11,8 @@
 * [Projects](basics/projects/readme.md)
 * [Preview](basics/preview/readme.md)
 * [Entities](basics/entities/readme.md)
+* [Create Entity](basics/entities/new.md)
+* [Use Entity](basics/entities/usage.md)
 * [Translations](basics/translations/readme.md)
 * [Templates](basics/templates/readme.md)
 * [Market Place](basics/market-place/readme.md)
