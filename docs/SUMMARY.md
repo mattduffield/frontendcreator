@@ -7,14 +7,16 @@
 ## Basics
 
 * [Login](basics/login.md)
-<!-- * [User Avatar](basics/user-avatar.md) -->
 * [Navigation Menu](basics/navigation-menu/readme.md)
+* [Projects](basics/projects/readme.md)
+* [Preview](basics/preview/readme.md)
+* [Notifications](basics/notifications/readme.md)
+<!-- * [User Avatar](basics/user-avatar.md) -->
   <!-- * [Key Concepts](basics/navigation-menu/key-concepts.md) -->
 <!-- * [Styles](basics/styles/readme.md) -->
   <!-- * [Key Concepts](basics/styles/key-concepts.md) -->
 <!-- * [Scripts](basics/scripts/readme.md) -->
   <!-- * [Key Concepts](basics/scripts/key-concepts.md) -->
-* [Projects](basics/projects/readme.md)
   <!-- * [Key Concepts](basics/projects/key-concepts.md) -->
 <!-- * [Screens](basics/screens/readme.md) -->
   <!-- * [Key Concepts](basics/screens/key-concepts.md) -->
@@ -22,11 +24,7 @@
   <!-- * [Key Concepts](basics/custom-elements/key-concepts.md) -->
 <!-- * [Dialogs](basics/dialogs/readme.md) -->
   <!-- * [Key Concepts](basics/dialogs/key-concepts.md) -->
-* [Notifications](basics/notifications/readme.md)
   <!-- * [Key Concepts](basics/notifications/key-concepts.md) -->
-* [Flexbox](basics/flexbox/readme.md)
-  <!-- * [Key Concepts](basics/flexbox/key-concepts.md) -->
-* [Preview](basics/preview/readme.md)
   <!-- * [Key Concepts](basics/preview/key-concepts.md) -->
 
 ## Designer Surface
@@ -116,6 +114,7 @@
 
 * [CSS](reference/css/readme.md)
   * [Bootstrap Classes](reference/css/bootstrap-classes.md)
+  * [Flexbox](reference/css/flexbox/flexbox.md)
   * [Flexbox Classes](reference/css/flexbox-classes.md)
   * [Layout Classes](reference/css/layout-classes.md)
 * [Validation](reference/validation/readme.md)
