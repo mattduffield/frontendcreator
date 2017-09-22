@@ -36,6 +36,6 @@ The following are the steps required to create a new Entity:
 
 9. Click the `Back` button at the top of the navigation panel to return to the list of Entities:
 
-  ![Entities](../../assets/images/entities/new/capture38.png)
+  ![Entities](../../assets/images/entities/new/capture40.png)
 
 10. Congratulations! You have created your first Entity!
