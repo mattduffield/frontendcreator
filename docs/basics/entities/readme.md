@@ -73,7 +73,7 @@ TextBox | input[type='radio'] | true or false
 > #### info::
 > A preview data section was added to the tables to help when you are using the [ Template Builder ](../template-builder/readme.md) and want to visualize your templates immediately.
 
-Click the save button after you have entered the fields you like. Next, if you click on the Entity JSON tab, you should see the following:
+If you would like to generate the JSON structure, click on the JSON tab to get a sample of what you is required::
 
 ![Entities](../../assets/images/entities/new/capture38.png)
 

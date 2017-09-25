@@ -10,7 +10,7 @@ The following are the steps required to create a new Entity:
 
   ![Entities](../../assets/images/entities/new/capture2.png)
 
-3. Let's first fill out the name and description:
+3. First, enter `Contact Entity` for the `Name` field. Next, enter `This is a contact entity.` for the `Description` field:
 
   ![Entities](../../assets/images/entities/new/capture4.png)
 

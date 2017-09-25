@@ -72,6 +72,11 @@
 * [Create Entity](basics/entities/new.md)
 * [Use Entity](basics/entities/usage.md)
 
+## Translations
+* [Create English Translation](basics/translations/new/en/readme.md)
+* [Create Spanish Translation](basics/translations/new/es/readme.md)
+* [Use Translation](basics/translations/usage.md)
+
 
 ## Advanced
 
