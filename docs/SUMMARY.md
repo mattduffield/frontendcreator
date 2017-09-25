@@ -7,6 +7,7 @@
 ## Basics
 
 * [Login](basics/login.md)
+* [Login 2](basics/login/readme.md)
 * [Navigation Menu](basics/navigation-menu/readme.md)
 * [Projects](basics/projects/readme.md)
 * [Preview](basics/preview/readme.md)
