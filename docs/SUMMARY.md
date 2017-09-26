@@ -77,6 +77,19 @@
 * [Create Spanish Translation](basics/translations/new/es/readme.md)
 * [Use Translation](basics/translations/usage.md)
 
+<!-- ## Templates
+* [Create Template](basics/templates/new/readme.md)
+* [Use Template](basics/templates/usage/usage.md)
+ -->
+## Market Place
+* [App Contacts](basics/market-place/app-contacts/readme.md)
+* [Chart Sample](basics/market-place/chart-sample/readme.md)
+* [Contact Manager](basics/market-place/contact-manager/readme.md)
+* [KendoUI Bridge](basics/market-place/kendoui-bridge/readme.md)
+* [Random Users](basics/market-place/random-users/readme.md)
+* [Skeleton Navigation](basics/market-place/skeleton-navigation/readme.md)
+* [Syncfusion Bridge](basics/market-place/syncfusion-bridge/readme.md)
+
 
 ## Advanced
 
