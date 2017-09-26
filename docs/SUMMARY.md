@@ -6,15 +6,14 @@
 
 ## Basics
 
-* [Login](basics/login.md)
-* [Login 2](basics/login/readme.md)
+* [Login](basics/login/readme.md)
 * [Navigation Menu](basics/navigation-menu/readme.md)
 * [Projects](basics/projects/readme.md)
 * [Preview](basics/preview/readme.md)
 * [Entities](basics/entities/readme.md)
 * [Translations](basics/translations/readme.md)
 * [Templates](basics/templates/readme.md)
-* [Market Place](basics/market-place/readme.md)
+* [Market Place](basics/market-place/contact-manager/readme.md)
 * [Notifications](basics/notifications/readme.md)
 <!-- * [User Avatar](basics/user-avatar.md) -->
   <!-- * [Key Concepts](basics/navigation-menu/key-concepts.md) -->
