@@ -8,13 +8,13 @@
 
 * [Login](basics/login/readme.md)
 * [Navigation Menu](basics/navigation-menu/readme.md)
-* [Projects](basics/projects/readme.md)
-* [New Project](basics/projects/new/readme.md)
+<!-- * [Projects](basics/projects/readme.md) -->
+* [Projects](basics/projects/new/readme.md)
 * [Inline Preview](basics/projects/preview/inline/readme.md)
 * [Tab Preview](basics/projects/preview/tab/readme.md)
 * [Markdown Preview](basics/projects/preview/markdown/readme.md)
 * [Sharing Project Links](basics/projects/sharing-links/readme.md)
-* [Preview](basics/preview/readme.md)
+<!-- * [Preview](basics/preview/readme.md) -->
 * [Entities](basics/entities/readme.md)
 * [Translations](basics/translations/readme.md)
 * [Templates](basics/templates/readme.md)
