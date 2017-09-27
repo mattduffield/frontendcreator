@@ -3,6 +3,7 @@ Once you are logged in, you will be presented with a home screen.
   ![Entry 1][1]
 
 You will see the **Navigation Menu** on the left side of the screen:
+
   ![Entry 2][2]
 
 This menu contains all of the top-level navigation actions. The menu also contains a **Navigation Panel** that opens up to interact with your projects, entities, translations, templates, and the market place.
@@ -19,6 +20,7 @@ The following is a screen shot after the **Projects** menu has been clicked:
 
 Projects will only appear after you have created your first project or cloned one from the **Market Place**. You can create as many projects as you like. Projects will appear in a tree structure. Projects can have as many files and folders as you desire.
 You will see the **Navigation Panel** directly to the right of the **Navigation Menu**:
+
   ![Entry 4][4]
 
 ## Entities
