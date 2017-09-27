@@ -1,8 +1,9 @@
-
-
 # Navigation Menu
-Once you are logged in, you will see the **Navigation Menu** on the left side of the screen:
+Once you are logged in, you will be presented with a home screen.
   ![Entry 1][1]
+
+You will see the **Navigation Menu** on the left side of the screen:
+  ![Entry 2][2]
 
 This menu contains all of the top-level navigation actions. The menu also contains a **Navigation Panel** that opens up to interact with your projects, entities, translations, templates, and the market place.
 
@@ -14,12 +15,15 @@ At the bottom of the menu, you can click on the forward|backward arrows to open 
 
 ## Projects
 The following is a screen shot after the **Projects** menu has been clicked:
-  ![Entry 2][2]
+  ![Entry 3][3]
 
 Projects will only appear after you have created your first project or cloned one from the **Market Place**. You can create as many projects as you like. Projects will appear in a tree structure. Projects can have as many files and folders as you desire.
+You will see the **Navigation Panel** directly to the right of the **Navigation Menu**:
+  ![Entry 4][4]
+
 ## Entities
 The following is a screen shot after the **Entities** menu has been clicked:
-  ![Entry 3][3]
+  ![Entry 5][5]
 
 The Entities screen is where you define entity schema. This is used primarily in the desinger when you want to create data forms quickly. Entities currently supports generating the following types:
 
@@ -33,7 +37,7 @@ View Table | A table with view only fields
 The **Entities** screen has special `type` and `default element` values that work with the **Templates** screen.
 ## Translations
 The following is a screen shot after the **Translations** menu has been clicked:
-  ![Entry 4][4]
+  ![Entry 6][6]
 
 The **Translations** screen is where you can define multiple translations for you application. You will always have a base translation which all other translations will reference using the `Group With` select element.
 
@@ -41,7 +45,7 @@ The **Translations** screen uses a simple convention, when you select a translat
 
 ## Templates
 The following is a screen shot after the **Templates** menu has been clicked:
-  ![Entry 5][5]
+  ![Entry 7][7]
 
 The **Templates** screen is where you create reusable templates in a quick code and preview manner. It supports a templating syntax that allows you to reference position layout for values the correspond to an entity defined by the **Entities** screen.
 
@@ -49,7 +53,7 @@ The **Templates** screen is allows you to create advanced screen mockups with ve
 
 ## Market Place
 The following is a screen shot after the **Market Place** menu has been clicked:
-  ![Entry 6][6]
+  ![Entry 8][8]
 
 The **Market Place** is where you can upload and download content from other users. There will be free content as well as commercial content. In the **Market Place**, you are able to browse the content read-only.
 
@@ -65,3 +69,4 @@ The **Market Place** is where you can upload and download content from other use
 [5]: capture5.png
 [6]: capture6.png
 [7]: capture7.png
+[8]: capture8.png
