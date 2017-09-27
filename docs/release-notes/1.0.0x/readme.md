@@ -1,5 +1,21 @@
 ## 1.0.0.x Versions
 
+### 1.0.0.8-beta
+- Add new automated documenation engine for creation of Markdown files and screenshots
+- Fixed CORS issue with Azure Function service for GitHub
+- Fixed CORS issue with Azure Function service for Bitbucket
+- Fixed JSON property issue for SourceControl property
+- Fixed issue with clicking on Editor tabs not working
+- Fixed padding issue with .main-header button
+- Fixed issue with creating a new Entity and immediately trying to create another. Preview data was still persisted
+- Fixed issue with creating a new Templates and immediately trying to create another. Preview data was still persisted
+- Fixed issue with creating a new Translations and immediately trying to create another. Preview data was still persisted
+- Fixed issue with new Entity containing redundant userId
+- Fixed issue with new Templates containing redundant userId
+- Fixed issue with new Translations containing redundant userId
+- Fixed issue with Editor adding new tab when clicking on custom tools
+
+
 ### 1.0.0.7-beta
 - Added ability to commit to GitHub
 - Added ability to commit to Bitbucket
