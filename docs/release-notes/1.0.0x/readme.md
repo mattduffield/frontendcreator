@@ -1,5 +1,28 @@
 ## 1.0.0.x Versions
 
+### 1.0.0.10-beta
+- Added a link to the image preview in the designer. This allows you to launch your images for preview in a separate browser tab
+- Added a copy to clipboard button to the image preview in the designer. This is just a shortcut for grabbing the URL of the image for use in your applications or sharing
+- Fixed issue with the navigation buttons when deleting a file; both tabs and the tree items were not being removed
+- Fixed Market Place where the `clone` button was no longer visible
+- Fixed Market Place where the `download` button was no longer visible
+- Fixed Market Place where the `preview` button was no longer visible
+- Fixed Market Place where the `play` button was no longer visible
+- Fixed the `Toggle Expand` button to be fully recursive in the Navigation Tree
+
+
+### 1.0.0.9-beta
+- Rewrote navigation tree to behave more like the tree in VSCode. This was by far one of the biggest requests and confusions when using FrontEnd Creator. This tree has all the behavior that you would expect, e.g. Copy, Paste, Delete, etc.
+- Removed the dual mode in the editor. Previously you were either in project mode or editor mode. This constraint is no longer necessary.
+- Added the ability to create folders in the tree
+- Added the ability to create files in the tree
+- All context menu actions in the navigation tree require no refresh. The navigation buttons above the tree will still for refresh for some actions
+- Added better contextual support for Add Viiew/View Model feature. You now have the ability to do it from any folder in your project and it correctly sets the path for you
+- Clicking on a tab now expands the tree to show where the file is located in the tree
+- Fixed issue when tree height was calculated incorrectly and did not let you see bottom part of tree
+- Added auto scroll feature to tree so that when you refresh the tree, if there is a file open, it will auto scroll to the currently open file
+- Fixed issue with Firefox not rendering the project name input width correctly
+
 ### 1.0.0.8-beta
 - Add new automated documenation engine for creation of Markdown files and screenshots
 - Fixed CORS issue with Azure Function service for GitHub
