@@ -1,5 +1,18 @@
 ## 1.0.0.x Versions
 
+### 1.0.0.11-beta
+- Added Auth0 capability for silent renewal of token
+- Added support for TypeScript development
+- Added Skeleton TypeScript sample to Market Place
+- Added editor support for TypeScript mimetype
+- Added dropdown button for New Project
+- Added `Aurelia + Babel` project type
+- Added `Aurelia + TypeScript` project type
+- Fixed issue with copy/paste operation holding on to old href
+- Fixed issue with copy/paste operation holding on to old container
+- Fixed issue with export operation not working in Projects
+- Fixed context menu not showing up after opening and closing a file
+
 ### 1.0.0.10-beta
 - Added a link to the image preview in the designer. This allows you to launch your images for preview in a separate browser tab
 - Added a copy to clipboard button to the image preview in the designer. This is just a shortcut for grabbing the URL of the image for use in your applications or sharing
