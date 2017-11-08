@@ -1,5 +1,10 @@
 ## 1.0.0.x Versions
 
+### 1.0.0.12-beta
+- Added custom tasks to build automation for production
+- More work on Auth0 silent renewal of tokens
+- Fixed issue with designer surface selector holding incorrect reference
+
 ### 1.0.0.11-beta
 - Added Auth0 capability for silent renewal of token
 - Added support for TypeScript development
