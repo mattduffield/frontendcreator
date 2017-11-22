@@ -20,6 +20,7 @@
 * [Templates](basics/templates/readme.md)
 * [Market Place](basics/market-place/contact-manager/readme.md)
 * [Notifications](basics/notifications/readme.md)
+* [Plugins](basics/plugins/readme.md)
 <!-- * [User Avatar](basics/user-avatar.md) -->
   <!-- * [Key Concepts](basics/navigation-menu/key-concepts.md) -->
 <!-- * [Styles](basics/styles/readme.md) -->

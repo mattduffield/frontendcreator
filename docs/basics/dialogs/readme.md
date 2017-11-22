@@ -23,3 +23,34 @@ Refer to the [ Dialog Tutorial ](../../tutorials/dialog.md) for tutorial on work
 
 > #### primary::
 > Please refer to the [ Aurelia Dialog](https://github.com/aurelia/dialog) documentation to learn more about using dialogs.
+
+
+## Bundling
+In order to use the `aurelia-dialog` plugin, it is necessary to bundle it so that you can use it in **FrontEnd Creator**. The following steps will walk you through what is necessary to bundle a plugin. We will be using the Aurelia CLI for the bundling process:
+
+1. Install the plugin using the `Aurelia CLI` as follows:
+  ```
+  au install aurelia-dialog
+  ```
+2. Next, open the `aurelia.json` file located under the `aurelia_project` folder.
+3. Under the `bundles` section of the file, copy and paste the following:
+  ```json
+  {
+    "name": "aurelia-dialog.js",
+    "dependencies": [
+      {
+        "name": "aurelia-dialog",
+        "main": "aurelia-dialog",
+        "path": "../node_modules/aurelia-dialog/dist/amd",
+        "resources": []
+      }
+    ]
+  }        
+  ```
+4. Save the `aurelia.json` file.
+5. In a terminal window, execute the following command:
+  ```
+  au build --env prod
+  ```
+6. This should produce the bundle along with the rest of the buildes defined in the `aurelia.json` file.
+7. You should now be able to publish `aurelia-dialog.js` to any server you wish for consumption.

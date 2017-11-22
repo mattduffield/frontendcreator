@@ -1,5 +1,11 @@
 ## 1.0.0.x Versions
 
+### 1.0.0.13-beta
+- Added support for React development
+- Added `React + Babel` project type
+- Added more mime types for editor
+- Fixed timeout navigation issue with Auth0
+
 ### 1.0.0.12-beta
 - Added custom tasks to build automation for production
 - More work on Auth0 silent renewal of tokens
