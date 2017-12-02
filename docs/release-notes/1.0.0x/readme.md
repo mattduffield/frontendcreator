@@ -1,5 +1,12 @@
 ## 1.0.0.x Versions
 
+### 1.0.0.14-beta
+- Added `React Simple Spa` sample app to Market Place
+- Updated React project template
+- Updated Preview iFrame to only load when open
+- Updated User Settings dialog for more data
+- Updated visible-tracker custom attribute to publish visible event for any element
+
 ### 1.0.0.13-beta
 - Added support for React development
 - Added `React + Babel` project type
