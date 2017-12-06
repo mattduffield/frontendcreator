@@ -1,5 +1,13 @@
 ## 1.0.0.x Versions
 
+### 1.0.0.15-beta
+- Updated Monaco Editor to use worker proxy
+- Added support for Angular 4x development
+- Added `Angular + TypeScript` project type
+- Added `Angular Heros` sample app to the Market Place
+- Refactored preview iFrame logic
+- Fixed bug with Preview tab remaining blank
+
 ### 1.0.0.14-beta
 - Added `React Simple Spa` sample app to Market Place
 - Updated React project template
