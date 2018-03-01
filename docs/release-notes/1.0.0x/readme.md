@@ -1,5 +1,17 @@
 ## 1.0.0.x Versions
 
+### 1.0.0.16-beta
+- Added open project dialog
+- Added unload project to context menu
+- Added caching support for open projects
+- Added caching support for open tabs
+- Added context menu for tabs including: Close, Close Others, Close to the Right, and Close All
+- Added preview URL timestamp for browser cache busting
+- Added splitter between navigation panel and editor
+- Added caching support for splitter width
+- Fixed bug with navigation panel when adding a new file and partially typing a name and hitting the `ESCAPE` key. Now the entry is ignored instead of creating a partially named file
+- Fixed CSS styling for HTML designer top right buttons
+
 ### 1.0.0.15-beta
 - Updated Monaco Editor to use worker proxy
 - Added support for Angular 4x development
