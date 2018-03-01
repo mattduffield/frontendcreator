@@ -9,6 +9,7 @@
 - Added preview URL timestamp for browser cache busting
 - Added splitter between navigation panel and editor
 - Added caching support for splitter width
+- Added Phaser as a new project template
 - Fixed bug with navigation panel when adding a new file and partially typing a name and hitting the `ESCAPE` key. Now the entry is ignored instead of creating a partially named file
 - Fixed CSS styling for HTML designer top right buttons
 
