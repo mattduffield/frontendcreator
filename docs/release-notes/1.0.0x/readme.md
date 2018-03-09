@@ -1,5 +1,14 @@
 ## 1.0.0.x Versions
 
+### 1.0.0.17-beta
+- Added support for caching current cursor location for open tab
+- Added support for restoring cached cursor location after opening a tab
+- Added support for when clicking the close button on the tab so that it opens a save dialog if dirty
+- Added dirty icon to the current tab when the editor is dirty
+- Fixed bug when logging out not clearing cached tabs or projects
+- Fixed bug in Market Place context menu showing Unload Project menu item
+- Fixed bug in Save Dialog when editor is dirty and cached information was assigned to the wrong tab
+
 ### 1.0.0.16-beta
 - Added open project dialog
 - Added unload project to context menu
