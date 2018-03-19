@@ -1,5 +1,10 @@
 ## 1.0.0.x Versions
 
+### 1.0.0.18-beta
+- Updated all CORS settings for Blob Storage to support HTTPS
+- Updated all user settings for Preview to now use HTTPS
+- Fixed bug with tab not updating cache when switching or loading a new file
+
 ### 1.0.0.17-beta
 - Added support for caching current cursor location for open tab
 - Added support for restoring cached cursor location after opening a tab
