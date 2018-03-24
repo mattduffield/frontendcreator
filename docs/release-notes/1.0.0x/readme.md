@@ -1,5 +1,14 @@
 ## 1.0.0.x Versions
 
+### 1.0.0.19-beta
+- Fixed Market Place close tab button not responding
+- Fixed issue #21 where creation of an Entity was not working
+- Fixed issue #22 the delete prompt for a project now includes the project name
+- Fixed issue #23 deleting entities did not work. This fix corrected both deleting entities as well as cloning
+- Fixed issue #24 managing entities should now work and was fixed by #21 and #23
+- Fixed issue #25 typo in the guide book. The text has been corrected
+- Confirm delete dialog in the Project panel, now lists all of the files that have been selected for delete
+
 ### 1.0.0.18-beta
 - Updated all CORS settings for Blob Storage to support HTTPS
 - Updated all user settings for Preview to now use HTTPS

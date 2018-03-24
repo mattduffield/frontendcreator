@@ -4,7 +4,7 @@ We have created our entity and now want to use it in the designer. Let's take a 
 
 ![Entity Builder Screen](../../assets/images/entity-builder-screen.png)
 
-We are going to create a new screen, `my-contact` that will utilize the new Contact Entity we created. In case you have created a project, create one called, `Demo`. Next, add a screen called, `my-contact`. 
+We are going to create a new screen, `my-contact` that will utilize the new Contact Entity we created. In case you have not created a project, create one called, `Demo`. Next, add a screen called, `my-contact`. 
 
 ![Entity Builder Screen](../../assets/images/entity-builder-new-screen.png)
 
