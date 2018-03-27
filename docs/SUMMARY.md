@@ -10,6 +10,7 @@
 * [Navigation Menu](basics/navigation-menu/readme.md)
 <!-- * [Projects](basics/projects/readme.md) -->
 * [Projects](basics/projects/new/readme.md)
+* [Manage Projects](basics/projects/manage/readme.md)
 * [Inline Preview](basics/projects/preview/inline/readme.md)
 * [Tab Preview](basics/projects/preview/tab/readme.md)
 * [Markdown Preview](basics/projects/preview/markdown/readme.md)
