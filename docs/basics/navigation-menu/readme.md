@@ -18,7 +18,7 @@ At the bottom of the menu, you can click on the forward|backward arrows to open 
 The following is a screen shot after the **Projects** menu has been clicked:
   ![Entry 3][3]
 
-Projects will only appear after you have created your first project or cloned one from the **Market Place**. You can create as many projects as you like. Projects will appear in a tree structure. Projects can have as many files and folders as you desire.
+Projects will only appear after you have created your first project or cloned one from the **Market Place**. You can load already created projects by clicking on the load folder icon. You can create as many projects as you like. Projects will appear in a tree structure. Projects can have as many files and folders as you desire.
 You will see the **Navigation Panel** directly to the right of the **Navigation Menu**:
 
   ![Entry 4][4]
