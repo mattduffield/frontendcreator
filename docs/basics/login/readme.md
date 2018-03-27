@@ -41,11 +41,11 @@ Clicking on the avatar lauches the **User Settings** dialog as shown below:
 The **User Settings** dialog contains the following items:
 
 - **Version** - the version of the application
+- **User ID** - the unique user ID
 - **User** - the user name
-- **Database** - this is the name of the backend database
 - **Help Documentation** - a link to the help documentation
 - **Feedback** - an opportunity to provide feedback
-- **Application Settings** - this is where you can make some global settings for the application
+- **Settings** - this is where you can make some global settings for the application
 - **Logout** - button to log out
 - **Cancel** - button to cancel and close the dialog
 
@@ -57,14 +57,13 @@ The **Feedback** dialog is meant to give you an opportunity to provide feedback 
 
 Here you can provide what type of feedback you want to provide as well as a summary of anything else you wish to send. Clicking the **Submit** button will send the information to **FrontEnd Creator**.
 
-### Application Settings
+### Settings
 
 The **Application Settings** dialog allows you to configure global settings for **FrontEnd Creator**. Clicking on the **Application Settings** link will present you with the following dialog:
   ![Entry 10][10]
 
 In this dialog, you are able to configure the following:
 
-- **Preview Protocol** - this allows you to preview your project using HTTP or HTTPS. It defaults to HTTP
 - **Navigation Behavior** - this allows you to allow the application to auto-save when navigating away from a dirty file or to prompt the user
 - **Source Control Repository** - this allows you to provide credentials currently for GitHub and Bitbucket
 
