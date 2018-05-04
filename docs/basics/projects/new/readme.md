@@ -1,4 +1,7 @@
 # New Project
+**Frontend Creator** provides a New Project dialog that helps make the process of creating a new project easy. 
+
+![Projects screen](./fec-new-demo.gif)
 
 In order to create a new project, you need to click on the `new project` icon on the **Navigation Panel**.
 
