@@ -60,13 +60,15 @@ Here you can provide what type of feedback you want to provide as well as a summ
 ### Settings
 
 The **Application Settings** dialog allows you to configure global settings for **FrontEnd Creator**. Clicking on the **Application Settings** link will present you with the following dialog:
-  ![Entry 10][10]
+  ![Login 10](./fec-application-settings.png)
 
 In this dialog, you are able to configure the following:
 
-- **Navigation Behavior** - this allows you to allow the application to auto-save when navigating away from a dirty file or to prompt the user
-- **Source Control Repository** - this allows you to provide credentials currently for GitHub and Bitbucket
+- **Save Behavior** - this allows you to allow the application to auto-generate a commit comment when saving or prompt the user to comment when saving
+- **Source Control Repository** - this allows you to provide credentials for GitHub
 
+> #### danger::
+>Currently, we support GitHub but we are planning on supporting other source control repositories like Bitbucket, etc.
 
 Once you have made your changes, click on the **Submit** button to save your the information to the database
 

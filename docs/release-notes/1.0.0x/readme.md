@@ -1,5 +1,16 @@
 ## 1.0.0.x Versions
 
+### 1.0.0.1-RC
+- This is a breaking release!
+- New file tree
+- New routing infrastructure
+- New Project wizard
+- Open Project dialog
+- All Git interactions now happen in Azure Functions
+- New File Uploader 
+- Redesigned Monaco Editor
+
+
 ### 1.0.0.19-beta
 - Fixed Market Place close tab button not responding
 - Fixed issue #21 where creation of an Entity was not working

@@ -6,11 +6,11 @@ You will see the **Navigation Menu** on the left side of the screen:
 
   ![Entry 2][2]
 
-This menu contains all of the top-level navigation actions. The menu also contains a **Navigation Panel** that opens up to interact with your projects, entities, translations, templates, and the market place.
+This menu contains all of the top-level navigation actions. The menu also contains a **Navigation Panel** that opens up to interact with your projects, entities, and templates.
 
-Clicking on each individual menu item will load any content created already available. The following screen shots display what your screen would look like if you had just signed up without any content.
+Clicking on each individual menu item will load any content already created. The following screen shots display what your screen would look like if you had just signed up without any content.
 
-You can click on the logo in the top of the menu to toggle the **Navigation Panel**. The panel displays context sensitive information depending on which menu item you have clicked.
+You can click on the logo in the top of the menu to toggle the **Navigation Panel**. The panel displays context sensitive information depending on which menu item you have clicked. Clicking on the logo will toggle open the **Navigation Panel**.
 
 At the bottom of the menu, you can click on the forward|backward arrows to open or close the **Navigation Panel** as well.
 
@@ -18,16 +18,18 @@ At the bottom of the menu, you can click on the forward|backward arrows to open 
 The following is a screen shot after the **Projects** menu has been clicked:
   ![Entry 3][3]
 
-Projects will only appear after you have created your first project or cloned one from the **Market Place**. You can load already created projects by clicking on the load folder icon. You can create as many projects as you like. Projects will appear in a tree structure. Projects can have as many files and folders as you desire.
+Projects will only appear after you have created your first project or cloned one using the New Project dialog. You can load already created projects by clicking on the load folder icon. You can also create new projects by clicking on the new project icon. You can create as many projects as you like. Projects will appear in a tree structure. Projects can have as many files and folders as you desire.
 You will see the **Navigation Panel** directly to the right of the **Navigation Menu**:
 
   ![Entry 4][4]
+
+You can have as many projects open as you like.
 
 ## Entities
 The following is a screen shot after the **Entities** menu has been clicked:
   ![Entry 5][5]
 
-The Entities screen is where you define entity schema. This is used primarily in the desinger when you want to create data forms quickly. Entities currently supports generating the following types:
+The Entities screen is where you define entity schema. This is used primarily in the designer when you want to create data forms quickly. Entities currently supports generating the following types:
 
 Type | Description
 ---- | -----------
@@ -43,16 +45,16 @@ The following is a screen shot after the **Templates** menu has been clicked:
 
 The **Templates** screen is where you create reusable templates in a quick code and preview manner. It supports a templating syntax that allows you to reference position layout for values the correspond to an entity defined by the **Entities** screen.
 
-The **Templates** screen is allows you to create advanced screen mockups with very little coding.
+The **Templates** screen is allows you to create advanced screen mockups with very little coding. It also supports using mock data for better visualization.
 
-## Market Place
+<!-- ## Market Place
 The following is a screen shot after the **Market Place** menu has been clicked:
   ![Entry 7][7]
 
 The **Market Place** is where you can upload and download content from other users. There will be free content as well as commercial content. In the **Market Place**, you are able to browse the content read-only.
 
 > #### danger::
->In the **Market Place**, you are able to browse the content read-only.
+>In the **Market Place**, you are able to browse the content read-only. -->
 
 
 
