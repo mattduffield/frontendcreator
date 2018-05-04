@@ -8,7 +8,7 @@
 - Open Project dialog
 - All Git interactions now happen in Azure Functions
 - New File Uploader 
-- Redesigned Monaco Editor
+- Re-designed Monaco Editor
 
 
 ### 1.0.0.19-beta
