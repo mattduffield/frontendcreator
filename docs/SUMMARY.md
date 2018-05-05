@@ -40,6 +40,7 @@
   * [New Projects](basics/projects/new/readme.md)
   * [Load Existing Projects](basics/projects/load/readme.md)
   * [Designer](basics/projects/designer/readme.md)
+  * [Upload Files](basics/projects/upload/readme.md)
 
 
 <!-- ## Entities -->

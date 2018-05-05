@@ -173,3 +173,6 @@ This allows you to delete the currently selected tree item. You will receive a c
 
 ### Copy
 This allows you to clone the currently selected tree item.
+
+## Upload files
+It is possible to upload files after you have created your project. Refer to [Upload Files](./upload/readme.md)
