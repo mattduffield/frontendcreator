@@ -175,4 +175,4 @@ This allows you to delete the currently selected tree item. You will receive a c
 This allows you to clone the currently selected tree item.
 
 ## Upload files
-It is possible to upload files after you have created your project. Refer to [Upload Files](./upload/readme.md)
+It is possible to upload files after you have created your project by simply dragging and dropping files from your desktop onto the **Projects** area. Refer to [Upload Files](./upload/readme.md) document for detailed steps on how to do it.

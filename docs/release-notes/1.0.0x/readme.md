@@ -1,5 +1,11 @@
 ## 1.0.0.x Versions
 
+### 1.0.0.2-RC
+- Fixed issue with File Upload Service crashing when processing nested folders
+- Fixed issue when closing a tab causing the incorrect tab to load
+- Fixed issue with Manage Topics dialog causing the page to refresh when hitting the enter key
+- Modified the Monaco Editor rendering logic to now render all non font and non image file extensions 
+
 ### 1.0.0.1-RC
 - This is a breaking release!
 - New file tree
