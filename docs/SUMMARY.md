@@ -34,14 +34,20 @@
 
 ## Projects
 <!-- * [Projects](basics/projects/readme.md) -->
-* [Projects](basics/projects/new/readme.md)
+* [Projects](basics/projects/readme.md)
   * [GitHub Configuration](basics/github/readme.md)
   * [GitHub Pages](basics/github-pages/readme.md)
   * [New Projects](basics/projects/new/readme.md)
   * [Load Existing Projects](basics/projects/load/readme.md)
   * [Designer](basics/projects/designer/readme.md)
   * [Upload Files](basics/projects/upload/readme.md)
+  * [Live Preview](basics/projects/live-preview/readme.md)
 
+## Editor
+<!-- * [Projects](basics/projects/readme.md) -->
+* [Editor](basics/editor/readme.md)
+  * [Editor Options](basics/editor/editor-options/readme.md)
+  * [ESLint](basics/editor/eslint/readme.md)
 
 <!-- ## Entities -->
 <!-- * [Create Entity](basics/entities/new.md) -->

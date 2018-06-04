@@ -157,7 +157,7 @@ It is possible to preview your changes using either `eye` icon or the `play` ico
 Click on the `eye` icon to Preview your project vertically.
 
 > #### danger::
->You will need to configure your project in GitHub to allow for [GitHub Pages](../github-pages/readme.md). If you would like this to be automatic, please email support@frontendcreator.com so that we can request it to be added on GitHub's internal feature request list.
+>You will need to configure your project in GitHub to allow for [GitHub Pages](../../github-pages/readme.md). If you would like this to be automatic, please email support@frontendcreator.com so that we can request it to be added on GitHub's internal feature request list.
 
 If you have already configured GitHub Pages, then you should see the following:
 

@@ -1,5 +1,21 @@
 ## 1.0.0.x Versions
 
+### 1.0.0.3-RC
+- Switched to using Octokit Rest.js library for GitHub API
+- Switched to Tree and Blob access from using Repository Contents. This allows file sizes to increase from 1MB to 100MB
+- Switched the way save vs. commit is handled in the editor. We now save locally any changes performed in the editor. To commit those changes, you need to right-click the project and select `Commit`
+- Added dirty indicator to the Navigation Panel. This will allow the user to know that the file has been saved locally but still not commited to GitHub
+- Added support for LivePreview. Since we are using GitHub Pages, there can be a slight delay between saving a file and rendering the changes in a preview tab or IFrame. With LivePreview, we are able to use a ServiceWorker to help facilitate a cache of files that have changed as well as using the PostMessage API. This change requires a few modifications to your project but any modern CI/CD workflow should be able to handle it without a problem
+- Added support for using ESLint in the editor
+- Updated the User Preferences dialog to allow for better configuration of the Monaco Editor and enabling/disabling the ESLint process
+- Added busy indicator to the Manage Topics dialog
+- Fixed issue with `New Project` dialog never completing
+- Updated the `New Project` dialog to use same logic as when opening an existing project
+- Added Live Preview documentation
+- Added Editor Options documentation
+- Added ESLint documentation
+
+
 ### 1.0.0.2-RC
 - Fixed issue with File Upload Service crashing when processing nested folders
 - Fixed issue when closing a tab causing the incorrect tab to load
