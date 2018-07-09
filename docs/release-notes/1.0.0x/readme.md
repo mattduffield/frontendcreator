@@ -1,5 +1,12 @@
 ## 1.0.0.x Versions
 
+### 1.0.0.4-RC
+- Added syntax highlight support for `.jsx` files. If you use this extension while development your React application, you will get syntax highlighting you would expect
+- Add support for `.yaml` and `.yml` files
+- Fixed an issue when trying to Preview a project from another owner
+- Fixed an issue when creating a new file but never commiting the file and then trying to navigate to an existing file and switching back. It hangs with a busy indicator. It now behaves as expected
+- Fixed an issue when creating a new file but never commiting and then trying to delete the file
+
 ### 1.0.0.3-RC
 - Switched to using Octokit Rest.js library for GitHub API
 - Switched to Tree and Blob access from using Repository Contents. This allows file sizes to increase from 1MB to 100MB
