@@ -1,5 +1,13 @@
 ## 1.0.0.x Versions
 
+### 1.0.0.5-RC
+- Added `Find In Files` search ability. This allows you to enter a search term and the system will search across the current repo and provide a resultset back
+- Added Password reset with Auth0
+- Fixed issue when trying to preview images
+- Fixed issue when trying to drag and drop files for upload
+- Fixed issue when creating a new folder and trying to use the `Add View/ViewModel` feature for repos with the topic `aurelia`
+- Fixed issue with PostMessage across origins. This was necessary as we can use an iFrame to preview and also use a new tab
+
 ### 1.0.0.4-RC
 - Added syntax highlight support for `.jsx` files. If you use this extension while development your React application, you will get syntax highlighting you would expect
 - Add support for `.yaml` and `.yml` files
