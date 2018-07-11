@@ -2,7 +2,7 @@
 
 ### 1.0.0.5-RC
 - Added syntax highlighting for React files (.jsx)
-- Added `Find In Files` search ability. This allows you to enter a search term and the system will search across the current repo and provide a resultset back
+- Added `Find In Files` search ability. This allows you to enter a search term and the system will search across the current repo and provide a resultset back. Simply use `Ctrl|Cmd + Shift + F` inside the editor to search for a term
 - Added Password reset with Auth0
 - Fixed issue when trying to preview images
 - Fixed issue when trying to drag and drop files for upload
