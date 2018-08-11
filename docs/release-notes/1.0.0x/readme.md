@@ -1,5 +1,8 @@
 ## 1.0.0.x Versions
 
+### 1.0.0.7-RC
+- Migrated all Cloud Functions to Google Cloud Platform
+
 ### 1.0.0.6-RC
 - Added ability to edit ESLint configuration
 - Fixed issue with `Add View/ViewModel` when trying to delete newly created files
